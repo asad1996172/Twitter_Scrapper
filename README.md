@@ -4,6 +4,7 @@ Twitter Profile and Trend wise Tweets Scrapper
 Fast Internet is recommended as it helps loading JS faster.
 
 Following are the 4 steps of the code.
+
 ______________________________________    STEP - 1    ____________________________________________________
 
 Run get_trends.py to get all the trends on daily basis. It saves all these trends in "trends.txt" file.
