@@ -4,6 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import pickle
 import os
 import time
+from selenium.common.exceptions import TimeoutException
 
 chrome_options = webdriver.ChromeOptions()
 executable_path = 'chromedriver.exe'
@@ -165,5 +166,17 @@ def main(arguments):
         # print(trends_tweets)
 
 
-main(sys.argv)
-# main()
+for i in range(0, 1):
+        while True:
+            try:
+                main(sys.argv)
+            except TimeoutException as ex:
+                print("Exception has been thrown. " + str(ex))
+                browser.close()
+                browser = webdriver.Chrome(
+                    executable_path=executable_path, chrome_options=chrome_options)
+                browser.set_window_size(1300, 768)
+                browser_link = 'https://twitter.com/gamingexprncia'
+                browser.get(browser_link)
+                continue
+            break
