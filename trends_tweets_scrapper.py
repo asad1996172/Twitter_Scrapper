@@ -180,5 +180,3 @@ for i in range(0, 1):
                 browser.get(browser_link)
                 continue
             break
-
-Here i have made some changes
