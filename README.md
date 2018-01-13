@@ -15,9 +15,9 @@ Format Of the date is ==> yy-mm-dd ==> e.g 2017-12-10
 
 For example :
 
-       filename      start_date end_date
------------------------------------
-python get_trends.py 2017-01-01 2017-12-10
+              filename      start_date end_date
+       -----------------------------------
+       python get_trends.py 2017-01-01 2017-12-10
 
 ____________________________________________________________________________________________________________
 
@@ -29,9 +29,9 @@ trends.
 
 For example :
 
-       filename
----------------------
-python extracting_unique_trends.py
+              filename
+       ---------------------
+       python extracting_unique_trends.py
 ____________________________________________________________________________________________________________
 
 ______________________________________    STEP - 3    ______________________________________________________
@@ -49,9 +49,9 @@ This is because of the fact that many trends have thousands of profiles so we ne
 
 For example:
 
-       filename                profiles per trend
--------------------------------------------------
-python scrape_profile_links.py 600
+              filename                profiles per trend
+       -------------------------------------------------
+       python scrape_profile_links.py 600
 ____________________________________________________________________________________________________________
 
 ______________________________________    STEP - 4    ______________________________________________________
@@ -71,9 +71,9 @@ Following is the only argument for this.
 
 For example:
 
-       filename           till year
--------------------------------------------------
-python scrape_profiles.py 2016
+              filename           till year
+       -------------------------------------------------
+       python scrape_profiles.py 2016
 ____________________________________________________________________________________________________________
 
 Step 3 and Step 4 can run side by side to fasten things.
@@ -95,6 +95,6 @@ This is because of the fact that many trends have thousands of tweets so we need
 
 For example:
 
-       filename                tweets per trend
--------------------------------------------------
-python trends_tweets_scrapper.py 600
+              filename                tweets per trend
+       -------------------------------------------------
+       python trends_tweets_scrapper.py 600
