@@ -5,6 +5,7 @@ import pickle
 import os
 import time
 
+
 from selenium.common.exceptions import TimeoutException
 
 chrome_options = webdriver.ChromeOptions()
