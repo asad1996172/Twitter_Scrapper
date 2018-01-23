@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import pickle
 import os
+import datetime
 import time
 from selenium.common.exceptions import TimeoutException
 
@@ -53,10 +54,14 @@ def main(arguments):
 
     for i in range(highest+1,len(trends)):
         trend = trends[i]
+
+        appstr = "since:2006-03-22 until:" + \
+            datetime.datetime.today().strftime('%Y-%m-%d')
         print("Starting Trend : ", trend)
         search_trend = browser.find_element_by_id("search-query")
         search_trend.clear()
-        search_trend.send_keys(trend)
+        search_trend.send_keys(trend + " " + appstr)
+        print(trend + " " + appstr)
         search_trend.send_keys(Keys.ENTER)
         search_trend.submit()
         end_of_page_checker = 0

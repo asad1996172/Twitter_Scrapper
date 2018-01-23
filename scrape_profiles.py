@@ -4,6 +4,7 @@ import pickle
 from selenium.common.exceptions import TimeoutException
 from os import walk
 import time
+import datetime
 
 chrome_options = webdriver.ChromeOptions()
 executable_path = 'chromedriver.exe'
@@ -49,6 +50,11 @@ def get_profile(browser_link,till_year,path):
     whole_timeline = {}
     tweet_count = 0
     end_of_page_checker = 0
+
+    browser_link_temp = "https://twitter.com/search?l=&q=from%3A" + \
+        browser_link.split(
+            '/')[-1] + "%20since%3A2006-03-21%20until%3A" + datetime.datetime.today().strftime('%Y-%m-%d') + "&src=typd&lang=en"
+    browser.get(browser_link_temp)
 
     lenOfPage = browser.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
     match=False
@@ -172,7 +178,10 @@ def main(arguments):
             profile_link =  profile_links[j]
             if str(profile_link.split('/')[-1] + '.pickle') not in already_done:
                 print(str("Processing " + str(i) + " Trend " + str(j) + " Profile "))
+                print(profile_link)
+                profile_link = "https://twitter.com/ImranKhanPTI"
                 get_profile(profile_link,arguments[1],'dataset/' + trend)
+
                 print(str("Completed " + str(i) + " Trend " + str(j) + " Profile "))
                 print("")
 
