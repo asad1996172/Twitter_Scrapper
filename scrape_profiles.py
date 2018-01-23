@@ -179,7 +179,7 @@ def main(arguments):
             if str(profile_link.split('/')[-1] + '.pickle') not in already_done:
                 print(str("Processing " + str(i) + " Trend " + str(j) + " Profile "))
                 print(profile_link)
-                profile_link = "https://twitter.com/ImranKhanPTI"
+                # profile_link = "https://twitter.com/ImranKhanPTI"
                 get_profile(profile_link,arguments[1],'dataset/' + trend)
 
                 print(str("Completed " + str(i) + " Trend " + str(j) + " Profile "))
