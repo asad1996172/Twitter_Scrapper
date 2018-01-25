@@ -55,7 +55,7 @@ def main(arguments):
     for i in range(highest+1,len(trends)):
         trend = trends[i]
 
-        appstr = "since:2006-03-22 until:" + \
+        appstr = "since:2017-01-01 until:" + \
             datetime.datetime.today().strftime('%Y-%m-%d')
         print("Starting Trend : ", trend)
         search_trend = browser.find_element_by_id("search-query")

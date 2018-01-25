@@ -53,7 +53,7 @@ def get_profile(browser_link,till_year,path):
 
     browser_link_temp = "https://twitter.com/search?l=&q=from%3A" + \
         browser_link.split(
-            '/')[-1] + "%20since%3A2006-03-21%20until%3A" + datetime.datetime.today().strftime('%Y-%m-%d') + "&src=typd&lang=en"
+            '/')[-1] + "%20since%3A2017-01-01%20until%3A" + datetime.datetime.today().strftime('%Y-%m-%d') + "&src=typd&lang=en"
     browser.get(browser_link_temp)
 
     lenOfPage = browser.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")

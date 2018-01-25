@@ -59,7 +59,7 @@ def main(arguments):
                     profiles_count = 0
                     search_trend = browser.find_element_by_id("search-query")
                     search_trend.clear()
-                    appstr = "since:2006-03-22 until:" + \
+                    appstr = "since:2017-01-01 until:" + \
                         datetime.datetime.today().strftime('%Y-%m-%d')
                     search_trend.send_keys(trend + " " +appstr)
                     search_trend.send_keys(Keys.ENTER)
