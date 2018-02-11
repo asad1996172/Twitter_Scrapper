@@ -1,0 +1,20 @@
+{'846991785121460225': {'fullname': b'Abdul Basit', 'timestamp': '2017-03-29 07:45:52', 'user': 'basit0O7', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'846990805143343104': {'fullname': b'Abdul Basit', 'timestamp': '2017-03-29 07:41:58', 'user': 'basit0O7', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'846284204329517056': {'fullname': b'Zulfiqar Doltani', 'timestamp': '2017-03-27 08:54:12', 'user': 'ZDoltani', 'replies': '1', 'likes': '1', 'retweets': '0'}}
+{'846231970560589824': {'fullname': b'D\xe2\x82\xacC\xe2\x82\xacNT', 'timestamp': '2017-03-27 05:26:38', 'user': 'RanaTalha002', 'replies': '1', 'likes': '3', 'retweets': '5'}}
+{'846024728456249346': {'fullname': b'Trendinalia Pakistan', 'timestamp': '2017-03-26 15:43:08', 'user': 'trendinaliaPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845964337432846336': {'fullname': b'Trendinalia Pakistan', 'timestamp': '2017-03-26 11:43:09', 'user': 'trendinaliaPK', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'845736354684321793': {'fullname': b'Ahtesham bokhari', 'timestamp': '2017-03-25 20:37:14', 'user': 'theonlyleaderBB', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'845663906785845249': {'fullname': b'Ahmed Quraishi - TV Team', 'timestamp': '2017-03-25 15:49:21', 'user': 'Office_AQPk', 'replies': '0', 'likes': '7', 'retweets': '5'}}
+{'845553221925945344': {'fullname': b'Zulfiqar Doltani', 'timestamp': '2017-03-25 08:29:32', 'user': 'ZDoltani', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845547703153102848': {'fullname': b'Creator of money', 'timestamp': '2017-03-25 08:07:36', 'user': 'Creatorofmoney0', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845542175597346816': {'fullname': b'Ameer Muawiyah \xc2\xa0\xe2\x9d\x84\xef\xb8\x8f', 'timestamp': '2017-03-25 07:45:38', 'user': 'AMQOfficial', 'replies': '0', 'likes': '5', 'retweets': '3'}}
+{'845535537599434752': {'fullname': b'nawaz laghari', 'timestamp': '2017-03-25 07:19:16', 'user': 'LaghariNawaz', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845532152624136192': {'fullname': b'Imtiaz Chandio', 'timestamp': '2017-03-25 07:05:49', 'user': 'imtiazchandyo', 'replies': '3', 'likes': '21', 'retweets': '15'}}
+{'845522861808914432': {'fullname': b'balo khan PTI', 'timestamp': '2017-03-25 06:28:53', 'user': 'balokhanharifal', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845491735702618112': {'fullname': b'Zeeshan Junejo', 'timestamp': '2017-03-25 04:25:12', 'user': 'ZeJunejo', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845489986585583616': {'fullname': b'Pak Politics', 'timestamp': '2017-03-25 04:18:15', 'user': 'PakPolStats', 'replies': '0', 'likes': '5', 'retweets': '4'}}
+{'845489002312478720': {'fullname': b'Zeeshan Junejo', 'timestamp': '2017-03-25 04:14:21', 'user': 'ZeJunejo', 'replies': '0', 'likes': '4', 'retweets': '2'}}
+{'845460539039977482': {'fullname': b'Fazal kakakhel', 'timestamp': '2017-03-25 02:21:15', 'user': 'Fazal_Haleem', 'replies': '0', 'likes': '3', 'retweets': '1'}}
+{'845402373069660162': {'fullname': b'In House We Trust', 'timestamp': '2017-03-24 22:30:07', 'user': 'HouseMusicBase', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'845367124767916032': {'fullname': b'IMR\xce\x9bN KH\xce\x9bN MUGH\xce\x9bL', 'timestamp': '2017-03-24 20:10:03', 'user': 'Imrankhanmughal', 'replies': '0', 'likes': '1', 'retweets': '0'}}

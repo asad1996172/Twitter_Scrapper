@@ -1,0 +1,24 @@
+{'888879347976818688': {'fullname': b'Usama Ahmed', 'timestamp': '2017-07-22 21:52:05', 'user': 'UsamaAhmed135', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'888670001158397952': {'fullname': b'Plzz speak 4 Kashmir', 'timestamp': '2017-07-22 08:00:13', 'user': 'RizwanLiaqat815', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'888359293338234880': {'fullname': b'shahzad kiyani', 'timestamp': '2017-07-21 11:25:35', 'user': 'shahzadkiyani3', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887941626819219456': {'fullname': b'Andleeb Khan PML-N', 'timestamp': '2017-07-20 07:45:55', 'user': 'andleebkanz1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887755098532716544': {'fullname': b'sami', 'timestamp': '2017-07-19 19:24:43', 'user': 'sami885', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887730672806375430': {'fullname': b'Owais Munawar Zai', 'timestamp': '2017-07-19 17:47:40', 'user': 'owaismunawerzai', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887728880563478528': {'fullname': b'Ali Gul', 'timestamp': '2017-07-19 17:40:32', 'user': 'Asadkhanpeshaw3', 'replies': '0', 'likes': '23', 'retweets': '14'}}
+{'887725635359055872': {'fullname': b'Adv Pravin Naik', 'timestamp': '2017-07-19 17:27:39', 'user': 'naikpravin73', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887710304859291650': {'fullname': b'Abdul Karim Butt', 'timestamp': '2017-07-19 16:26:44', 'user': 'AbdulKarimButt2', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'887703298849067011': {'fullname': b'Falcon\xc2\xa0\xf0\x9f\xa6\x85\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-07-19 15:58:53', 'user': 'syed_Dawoodshah', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'887689198291046401': {'fullname': b'Abdul Karim Butt', 'timestamp': '2017-07-19 15:02:51', 'user': 'AbdulKarimButt2', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'887658303085572100': {'fullname': b'yaseen Butt', 'timestamp': '2017-07-19 13:00:06', 'user': 'yaseenB38052850', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'887644703209934849': {'fullname': b'Gyan bahadur das', 'timestamp': '2017-07-19 12:06:03', 'user': 'rebirthgyanu', 'replies': '0', 'likes': '5', 'retweets': '12'}}
+{'887640677378473984': {'fullname': b'Naima', 'timestamp': '2017-07-19 11:50:03', 'user': 'Naima_Malick', 'replies': '0', 'likes': '5', 'retweets': '7'}}
+{'887629586384670722': {'fullname': b'SKI \xc2\xa0\xe2\x9a\xa0\xef\xb8\x8f', 'timestamp': '2017-07-19 11:05:59', 'user': 'TweetsomeGUY', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887625706712203264': {'fullname': b'Mohammad Tajuddin', 'timestamp': '2017-07-19 10:50:34', 'user': 'tajuddin4117', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887625269208641536': {'fullname': b'FahadUllah Chadhar', 'timestamp': '2017-07-19 10:48:50', 'user': 'iamFahadChadhar', 'replies': '0', 'likes': '10', 'retweets': '9'}}
+{'887623706905911296': {'fullname': b'ZM', 'timestamp': '2017-07-19 10:42:37', 'user': 'ZeshanMalick', 'replies': '1', 'likes': '61', 'retweets': '48'}}
+{'887617786306068481': {'fullname': b'PML (N)', 'timestamp': '2017-07-19 10:19:06', 'user': 'PMLN99', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'887616854881120256': {'fullname': b'PML (N)', 'timestamp': '2017-07-19 10:15:23', 'user': 'PMLN99', 'replies': '1', 'likes': '1', 'retweets': '0'}}
+{'887616589549502466': {'fullname': b'PML (N)', 'timestamp': '2017-07-19 10:14:20', 'user': 'PMLN99', 'replies': '2', 'likes': '0', 'retweets': '0'}}
+{'887613094628913152': {'fullname': b'Faisal bajwa\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-07-19 10:00:27', 'user': 'faisabajwa', 'replies': '0', 'likes': '7', 'retweets': '5'}}
+{'887606286812147712': {'fullname': b'Khawaja Mubashar\xc2\xae', 'timestamp': '2017-07-19 09:33:24', 'user': 'MubasharButt88', 'replies': '0', 'likes': '6', 'retweets': '1'}}
+{'887600885508997120': {'fullname': b'Rana Junaid', 'timestamp': '2017-07-19 09:11:56', 'user': 'I_amRajput', 'replies': '0', 'likes': '0', 'retweets': '1'}}

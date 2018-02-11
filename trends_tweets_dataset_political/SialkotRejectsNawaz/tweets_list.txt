@@ -1,0 +1,20 @@
+{'869876729849892864': {'fullname': b'PTI GUJRANWALA', 'timestamp': '2017-05-31 11:22:28', 'user': 'PTI_Gujranwala', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'866018074385887233': {'fullname': b'STYLO NEWS', 'timestamp': '2017-05-20 19:49:33', 'user': 'stylonews1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'865859833295228928': {'fullname': b'Waqas Ahmed', 'timestamp': '2017-05-20 09:20:45', 'user': 'WaqDev', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'865659741330055168': {'fullname': b'\xd9\x85\xd8\xad\xd9\x85\xd8\xaf \xd8\xb9\xd8\xaa\xdb\x8c\xd9\x82 \xda\x86\xd9\x88\xdb\x81\xd8\xaf\xd8\xb1\xdb\x8c \xc2\xa0\xf0\x9f\x8c\x9f', 'timestamp': '2017-05-19 20:05:40', 'user': 'ChMAteeq', 'replies': '0', 'likes': '2', 'retweets': '3'}}
+{'865628779225333760': {'fullname': b'Sharmo Sir', 'timestamp': '2017-05-19 18:02:38', 'user': 'sharmoDr', 'replies': '1', 'likes': '9', 'retweets': '3'}}
+{'865109777977888768': {'fullname': b'erkananahtar', 'timestamp': '2017-05-18 07:40:18', 'user': 'erkananahtar011', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891711505800073220': {'fullname': b'BINT ISKANDAR KHAN', 'timestamp': '2017-07-30 17:26:04', 'user': 'mysterious_ASK', 'replies': '0', 'likes': '7', 'retweets': '1'}}
+{'861731245515956224': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 23:55:13', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861730578005143553': {'fullname': b'Geo # Trend', 'timestamp': '2017-05-08 23:52:34', 'user': 'GeoHashTrend', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861723818951180288': {'fullname': b'Ifikhar Ahmad Khawar', 'timestamp': '2017-05-08 23:25:43', 'user': 'khawar_bary', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861723681726242816': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 23:25:10', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861719899244068865': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 23:10:08', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861719379553243140': {'fullname': b'PTI Finland Official', 'timestamp': '2017-05-08 23:08:04', 'user': 'PTIFinland', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861717372595576834': {'fullname': b'PTI Official Videos', 'timestamp': '2017-05-08 23:00:06', 'user': 'PTIVideos', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861717211697881089': {'fullname': b'Kamran Butt', 'timestamp': '2017-05-08 22:59:27', 'user': 'kamibutt77', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861716116577570816': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 22:55:06', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861712996107726848': {'fullname': b'Eligere', 'timestamp': '2017-05-08 22:42:42', 'user': 'EligereReveals', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861712345915109380': {'fullname': b'Haque', 'timestamp': '2017-05-08 22:40:07', 'user': 'HAAQ786', 'replies': '0', 'likes': '14', 'retweets': '5'}}
+{'861712334116368384': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 22:40:04', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861708551571480576': {'fullname': b'\xd8\xa7\xd9\x86\xda\xa9\xd9\x84 \xd9\x85\xd8\xac\xd8\xa8\xd9\x88\xd8\xb1', 'timestamp': '2017-05-08 22:25:03', 'user': 'digitalPak1', 'replies': '0', 'likes': '0', 'retweets': '0'}}

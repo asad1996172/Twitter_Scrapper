@@ -1,0 +1,24 @@
+{'855648335549648897': {'fullname': b'Jamila Kiyani', 'timestamp': '2017-04-22 05:03:55', 'user': 'JamilaKiyani', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'855541576424194055': {'fullname': b'News MQM', 'timestamp': '2017-04-21 21:59:41', 'user': 'NewsMQM', 'replies': '1', 'likes': '5', 'retweets': '2'}}
+{'855341744312918016': {'fullname': b'\xd8\xa7\xdb\x8c\xd9\x86\xd9\xb9\xdb\x8c_\xd8\xa7\xdb\x8c\xda\x88\xdb\x8c\xd8\xa6\xd9\xb9', 'timestamp': '2017-04-21 08:45:37', 'user': 'Anti_Idiots_9', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'855025744422076417': {'fullname': b'\xd8\xa7\xdb\x8c\xd9\x86\xd9\xb9\xdb\x8c_\xd8\xa7\xdb\x8c\xda\x88\xdb\x8c\xd8\xa6\xd9\xb9', 'timestamp': '2017-04-20 11:49:57', 'user': 'Anti_Idiots_9', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'854997988598566913': {'fullname': b'News MQM', 'timestamp': '2017-04-20 09:59:40', 'user': 'NewsMQM', 'replies': '1', 'likes': '4', 'retweets': '3'}}
+{'854816767989952512': {'fullname': b'News MQM', 'timestamp': '2017-04-19 21:59:33', 'user': 'NewsMQM', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'861710001139789825': {'fullname': b'News MQM', 'timestamp': '2017-05-08 22:30:48', 'user': 'NewsMQM', 'replies': '0', 'likes': '7', 'retweets': '3'}}
+{'861706207580565506': {'fullname': b'News MQM', 'timestamp': '2017-05-08 22:15:44', 'user': 'NewsMQM', 'replies': '1', 'likes': '7', 'retweets': '4'}}
+{'861581629277569024': {'fullname': b'News MQM', 'timestamp': '2017-05-08 14:00:42', 'user': 'NewsMQM', 'replies': '0', 'likes': '8', 'retweets': '3'}}
+{'861404203767300101': {'fullname': b'News MQM', 'timestamp': '2017-05-08 02:15:40', 'user': 'NewsMQM', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'861400435004977155': {'fullname': b'News MQM', 'timestamp': '2017-05-08 02:00:42', 'user': 'NewsMQM', 'replies': '0', 'likes': '4', 'retweets': '2'}}
+{'861347577643622400': {'fullname': b'News MQM', 'timestamp': '2017-05-07 22:30:40', 'user': 'NewsMQM', 'replies': '1', 'likes': '9', 'retweets': '6'}}
+{'860856822466568194': {'fullname': b'News MQM', 'timestamp': '2017-05-06 14:00:35', 'user': 'NewsMQM', 'replies': '0', 'likes': '6', 'retweets': '3'}}
+{'860252824415981568': {'fullname': b'News MQM', 'timestamp': '2017-05-04 22:00:30', 'user': 'NewsMQM', 'replies': '0', 'likes': '3', 'retweets': '2'}}
+{'860196195087646720': {'fullname': b'News MQM', 'timestamp': '2017-05-04 18:15:29', 'user': 'NewsMQM', 'replies': '0', 'likes': '6', 'retweets': '2'}}
+{'860192421631725568': {'fullname': b'News MQM', 'timestamp': '2017-05-04 18:00:29', 'user': 'NewsMQM', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'860132018285420544': {'fullname': b'News MQM', 'timestamp': '2017-05-04 14:00:28', 'user': 'NewsMQM', 'replies': '0', 'likes': '10', 'retweets': '7'}}
+{'859471388536692737': {'fullname': b'News MQM', 'timestamp': '2017-05-02 18:15:21', 'user': 'NewsMQM', 'replies': '0', 'likes': '5', 'retweets': '2'}}
+{'859467613373640705': {'fullname': b'News MQM', 'timestamp': '2017-05-02 18:00:21', 'user': 'NewsMQM', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'859407209809235969': {'fullname': b'News MQM', 'timestamp': '2017-05-02 14:00:20', 'user': 'NewsMQM', 'replies': '1', 'likes': '8', 'retweets': '4'}}
+{'859165605785731074': {'fullname': b'News MQM', 'timestamp': '2017-05-01 22:00:17', 'user': 'NewsMQM', 'replies': '0', 'likes': '8', 'retweets': '5'}}
+{'858871161450639365': {'fullname': b'News MQM', 'timestamp': '2017-05-01 02:30:16', 'user': 'NewsMQM', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'858867381216653312': {'fullname': b'News MQM', 'timestamp': '2017-05-01 02:15:15', 'user': 'NewsMQM', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'858863606271811584': {'fullname': b'News MQM', 'timestamp': '2017-05-01 02:00:15', 'user': 'NewsMQM', 'replies': '0', 'likes': '5', 'retweets': '2'}}

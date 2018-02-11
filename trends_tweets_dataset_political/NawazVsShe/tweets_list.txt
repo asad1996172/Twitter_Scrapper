@@ -1,0 +1,3 @@
+{'889151588488687616': {'fullname': b'\xe2\x80\x8f\xd9\x81\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x88\xd8\xb2\xdb\x8c\xdb\x81', 'timestamp': '2017-07-23 15:53:52', 'user': 'Fozia_iD', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'889057386220093440': {'fullname': b'Ali Khan', 'timestamp': '2017-07-23 09:39:33', 'user': 'AliKhan1611', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'889055613954732033': {'fullname': b'Dr. Aliya Kareem', 'timestamp': '2017-07-23 09:32:30', 'user': 'DrAliya7', 'replies': '0', 'likes': '4', 'retweets': '1'}}

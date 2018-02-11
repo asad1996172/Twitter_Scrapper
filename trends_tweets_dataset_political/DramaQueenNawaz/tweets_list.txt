@@ -1,0 +1,21 @@
+{'875399621492789248': {'fullname': b'\xd8\xa8\xdb\x8c\xd8\xb1\xd8\xb3\xd9\xb9\xd8\xb1\xd8\xad\xd8\xb3\xdb\x8c\xd9\x86 \xd8\xb3\xdb\x8c\xd9\x85\xd8\xa7\xd8\xa8 p\xd1\x82\xce\xb9', 'timestamp': '2017-06-15 17:08:28', 'user': 'simgai', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'875253067381395456': {'fullname': b'Mr Max', 'timestamp': '2017-06-15 07:26:07', 'user': 'love1pakistan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'875252820097761280': {'fullname': b'Mr Max', 'timestamp': '2017-06-15 07:25:08', 'user': 'love1pakistan', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'875059257145610240': {'fullname': b'PTI Naushahro Feroze', 'timestamp': '2017-06-14 18:35:59', 'user': 'PTIN_Feroze', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874936464311767040': {'fullname': b'Mahnoor Shah', 'timestamp': '2017-06-14 10:28:03', 'user': 'Mahnur_Shah_16', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874889519765573632': {'fullname': b'5 Star Apps', 'timestamp': '2017-06-14 07:21:30', 'user': 'TeamProApps', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874887593145626625': {'fullname': b'5 Star Apps', 'timestamp': '2017-06-14 07:13:51', 'user': 'TeamProApps', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874887564221722625': {'fullname': b'5 Star Apps', 'timestamp': '2017-06-14 07:13:44', 'user': 'TeamProApps', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874887488925573127': {'fullname': b'5 Star Apps', 'timestamp': '2017-06-14 07:13:26', 'user': 'TeamProApps', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874887459422834688': {'fullname': b'5 Star Apps', 'timestamp': '2017-06-14 07:13:19', 'user': 'TeamProApps', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874749196364128256': {'fullname': b'Arbaz Khan', 'timestamp': '2017-06-13 22:03:55', 'user': 'realArbazkhan', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'874746601302097924': {'fullname': b'Fatima Khan', 'timestamp': '2017-06-13 21:53:36', 'user': 'FatimaKH_N', 'replies': '5', 'likes': '29', 'retweets': '2'}}
+{'874717470107553793': {'fullname': b'ALI', 'timestamp': '2017-06-13 19:57:50', 'user': 'AmTeamIK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874700003985416194': {'fullname': b'\xd8\xae\xd8\xa7\xd9\x86\xdb\x8c(\xd9\x87\xd8\xa7\xd8\xaf\xdb\x8c)', 'timestamp': '2017-06-13 18:48:26', 'user': 'pti_tigerkhan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874698379556769792': {'fullname': b'Kamran Butt', 'timestamp': '2017-06-13 18:41:59', 'user': 'kamibutt77', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874687823516979200': {'fullname': b'Mazhar Saeed', 'timestamp': '2017-06-13 18:00:02', 'user': 'Mazhar__Saeed', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874681370899075072': {'fullname': b'\xda\xa9\xdb\x8c\xd8\xa7\xd9\x86\xdb\x8c', 'timestamp': '2017-06-13 17:34:24', 'user': 'LawAvoiding', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'874680544688168960': {'fullname': b'Junaid Sarwer', 'timestamp': '2017-06-13 17:31:07', 'user': 'JunaidSarwer', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874667008226414592': {'fullname': b'Sajjad CH', 'timestamp': '2017-06-13 16:37:19', 'user': 'one2ka', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874663965678350337': {'fullname': b'As1M TanOL1', 'timestamp': '2017-06-13 16:25:14', 'user': 'nep1usultra', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'876627481113104384': {'fullname': b'Saim Gill', 'timestamp': '2017-06-19 02:27:33', 'user': 'SaimGill8', 'replies': '0', 'likes': '0', 'retweets': '0'}}

@@ -1,0 +1,4 @@
+{'884711690847354881': {'timestamp': '2017-07-11 09:51:18', 'likes': '1', 'user': 'sulehri563', 'fullname': b'\xd8\xb9\xd8\xb1\xd9\x81\xd8\xa7\xd9\x86 \xd8\xb9\xd9\x84\xdb\x8c \xd8\xb3\xd9\x84\xdb\x81\xd8\xb1\xdb\x8c', 'replies': '0', 'retweets': '0'}}
+{'883364327067189248': {'timestamp': '2017-07-07 16:37:22', 'likes': '1', 'user': 'sohail_bhattii', 'fullname': b'\xd8\xb3\xd8\xa7\xd8\xad\xd9\x84', 'replies': '0', 'retweets': '0'}}
+{'883364208435494912': {'timestamp': '2017-07-07 16:36:54', 'likes': '2', 'user': 'sohail_bhattii', 'fullname': b'\xd8\xb3\xd8\xa7\xd8\xad\xd9\x84', 'replies': '0', 'retweets': '0'}}
+{'857303787844882434': {'timestamp': '2017-04-26 18:42:05', 'likes': '1', 'user': 'mzulqarnain145', 'fullname': b'S.M. Zulqarnain', 'replies': '0', 'retweets': '0'}}

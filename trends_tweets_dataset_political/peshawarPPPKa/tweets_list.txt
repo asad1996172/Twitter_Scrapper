@@ -1,0 +1,45 @@
+{'874496360078233600': {'retweets': '14', 'user': 'Oye_Bukhari', 'timestamp': '2017-06-13 05:19:14', 'likes': '43', 'replies': '0', 'fullname': b'Zeeshan Bukhari \xc2\xa0\xf0\x9f\x8c\x90'}}
+{'864893046059651072': {'retweets': '4', 'user': 'SabahatKhanPPP', 'timestamp': '2017-05-17 17:19:05', 'likes': '9', 'replies': '0', 'fullname': b'Sabahat Ullah'}}
+{'864804339130519553': {'retweets': '0', 'user': 'ark2424', 'timestamp': '2017-05-17 11:26:36', 'likes': '1', 'replies': '0', 'fullname': b'Anwar Ullah Khalil'}}
+{'864525951882973184': {'retweets': '0', 'user': 'imwaqarafridi', 'timestamp': '2017-05-16 17:00:23', 'likes': '0', 'replies': '0', 'fullname': b'Dr Waqar Ahmd Afridi'}}
+{'864525669023313920': {'retweets': '2', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:59:16', 'likes': '2', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864525564740239364': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:58:51', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864525150192107520': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:57:12', 'likes': '1', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864524659408203776': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:55:15', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864524367493050369': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:54:05', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864524355916705792': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:54:03', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864524355899977728': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:54:03', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864523447011082240': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:50:26', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864523254521835520': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:49:40', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864523137471442946': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:49:12', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864523093754118145': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:49:02', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864522993531318272': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:48:38', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864522919384416259': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:48:20', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864522845740773376': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:48:03', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864522715813875712': {'retweets': '0', 'user': 'PSF77743', 'timestamp': '2017-05-16 16:47:32', 'likes': '0', 'replies': '0', 'fullname': b'Engineer ayaz nawaz'}}
+{'864505738244345856': {'retweets': '0', 'user': 'SajUu41', 'timestamp': '2017-05-16 15:40:04', 'likes': '0', 'replies': '0', 'fullname': b'Sajid Ali'}}
+{'864505131051737088': {'retweets': '0', 'user': 'SajUu41', 'timestamp': '2017-05-16 15:37:39', 'likes': '0', 'replies': '0', 'fullname': b'Sajid Ali'}}
+{'864503145606656000': {'retweets': '0', 'user': 'Haroon_Ahmed17', 'timestamp': '2017-05-16 15:29:46', 'likes': '0', 'replies': '0', 'fullname': b'Muhammad Haroon'}}
+{'864498169912193024': {'retweets': '0', 'user': 'voicepakistan3', 'timestamp': '2017-05-16 15:09:59', 'likes': '0', 'replies': '0', 'fullname': b'Viral On Social media \xc2\xa0\xf0\x9f\x93\x88'}}
+{'864493533142671360': {'retweets': '0', 'user': 'Hebi_pathan', 'timestamp': '2017-05-16 14:51:34', 'likes': '1', 'replies': '0', 'fullname': b'\xd8\xae\xdb\x8c\xd8\xa8\xd8\xb1 \xd9\xbe\xd8\xae\xd8\xaa\xd9\x88\xd9\x86\xd8\xae\xd9\x88\xd8\xa7'}}
+{'864479287465963521': {'retweets': '1', 'user': 'AliKhan_0077', 'timestamp': '2017-05-16 13:54:58', 'likes': '1', 'replies': '0', 'fullname': b'Ali Khan'}}
+{'864473218480001024': {'retweets': '1', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 13:30:51', 'likes': '2', 'replies': '0', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864459794333282304': {'retweets': '1', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 12:37:30', 'likes': '1', 'replies': '0', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864459565513019392': {'retweets': '2', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 12:36:35', 'likes': '1', 'replies': '0', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864455117579399168': {'retweets': '0', 'user': 'SajidKhanAfd', 'timestamp': '2017-05-16 12:18:55', 'likes': '0', 'replies': '0', 'fullname': b'Sajid Khan Afridi'}}
+{'864454726796152832': {'retweets': '0', 'user': 'SajidKhanAfd', 'timestamp': '2017-05-16 12:17:22', 'likes': '0', 'replies': '0', 'fullname': b'Sajid Khan Afridi'}}
+{'864443935053279232': {'retweets': '0', 'user': 'IhsanWazir8', 'timestamp': '2017-05-16 11:34:29', 'likes': '0', 'replies': '0', 'fullname': b'Ihsan Ullah'}}
+{'864443702424592384': {'retweets': '0', 'user': 'IhsanWazir8', 'timestamp': '2017-05-16 11:33:33', 'likes': '0', 'replies': '0', 'fullname': b'Ihsan Ullah'}}
+{'864434069685370880': {'retweets': '0', 'user': 'PPPGujranwala', 'timestamp': '2017-05-16 10:55:17', 'likes': '2', 'replies': '0', 'fullname': b'#teamppp baig (\xd8\xa7\xd9\x88\xd9\x8a\xd8\xb3)'}}
+{'864431476611457024': {'retweets': '0', 'user': 'ZiaudinBaloch', 'timestamp': '2017-05-16 10:44:59', 'likes': '0', 'replies': '0', 'fullname': b'Ziaudin Baloch\xc2\xa0\xf0\x9f\x87\xb1\xf0\x9f\x87\xbe'}}
+{'864408776983498752': {'retweets': '29', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 09:14:47', 'likes': '28', 'replies': '0', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864408671249477632': {'retweets': '0', 'user': 'Shangla_PTI', 'timestamp': '2017-05-16 09:14:21', 'likes': '0', 'replies': '0', 'fullname': b'Shangla_PTI'}}
+{'864408418802651136': {'retweets': '0', 'user': 'Shangla_PTI', 'timestamp': '2017-05-16 09:13:21', 'likes': '0', 'replies': '0', 'fullname': b'Shangla_PTI'}}
+{'864406380672933888': {'retweets': '24', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 09:05:15', 'likes': '20', 'replies': '0', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864406063214243841': {'retweets': '22', 'user': 'Mirqaisarpanhw3', 'timestamp': '2017-05-16 09:04:00', 'likes': '33', 'replies': '1', 'fullname': b'Mir Qaisar Panhwar\xc2\xae'}}
+{'864398689099538432': {'retweets': '0', 'user': 'BhuttoKaSipahi', 'timestamp': '2017-05-16 08:34:41', 'likes': '0', 'replies': '0', 'fullname': b'Drahkhokhar TeamPPP'}}
+{'864390094643503104': {'retweets': '0', 'user': 'fyBOY_In', 'timestamp': '2017-05-16 08:00:32', 'likes': '0', 'replies': '0', 'fullname': b'FyBOY'}}
+{'864386161116164097': {'retweets': '2', 'user': 'JanJattakPPP', 'timestamp': '2017-05-16 07:44:54', 'likes': '3', 'replies': '0', 'fullname': b'JAN JATTAK \xc2\xa0\xe2\x86\x97\xc2\xa0\xe2\x86\x97\xc2\xa0\xe2\x86\x97'}}
+{'864385256664772608': {'retweets': '0', 'user': 'fyBOY_In', 'timestamp': '2017-05-16 07:41:19', 'likes': '0', 'replies': '0', 'fullname': b'FyBOY'}}
+{'864385132093997056': {'retweets': '2', 'user': 'BhuttoKaSipahi', 'timestamp': '2017-05-16 07:40:49', 'likes': '4', 'replies': '0', 'fullname': b'Drahkhokhar TeamPPP'}}
+{'864384641981186049': {'retweets': '2', 'user': 'JanJattakPPP', 'timestamp': '2017-05-16 07:38:52', 'likes': '6', 'replies': '0', 'fullname': b'JAN JATTAK \xc2\xa0\xe2\x86\x97\xc2\xa0\xe2\x86\x97\xc2\xa0\xe2\x86\x97'}}

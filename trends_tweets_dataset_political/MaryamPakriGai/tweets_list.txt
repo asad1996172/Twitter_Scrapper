@@ -1,0 +1,73 @@
+{'858289150876827648': {'fullname': b'M Asfand Shabbir', 'timestamp': '2017-04-29 11:57:34', 'user': 'iDevAsfand', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858286062333870081': {'fullname': b'M Asfand Shabbir', 'timestamp': '2017-04-29 11:45:18', 'user': 'iDevAsfand', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858285729239007236': {'fullname': b'M Asfand Shabbir', 'timestamp': '2017-04-29 11:43:58', 'user': 'iDevAsfand', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'842013629239119873': {'fullname': b'SuperKhan', 'timestamp': '2017-03-15 14:04:27', 'user': 'Justice4Pnama', 'replies': '0', 'likes': '11', 'retweets': '7'}}
+{'838969845634891776': {'fullname': b'\xd9\x82\xd8\xa7\xd8\xb3\xd9\x85 \xd8\xae\xd8\xa7\xd9\x86 \xd9\x85\xd8\xb2\xd8\xa7\xd8\xb1\xdb\x8c', 'timestamp': '2017-03-07 04:29:33', 'user': '0333_8828491', 'replies': '0', 'likes': '0', 'retweets': '2'}}
+{'859724826600251394': {'fullname': b'afrasiab', 'timestamp': '2017-05-03 11:02:26', 'user': 'afrasia01723248', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'859724332062437376': {'fullname': b'afrasiab', 'timestamp': '2017-05-03 11:00:28', 'user': 'afrasia01723248', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'854353301101461504': {'fullname': b'Jalil Khan', 'timestamp': '2017-04-18 15:17:54', 'user': 'WizKhan101', 'replies': '0', 'likes': '4', 'retweets': '4'}}
+{'821042095238615040': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 17:11:04', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'821039740724060161': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 17:01:43', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'821039241270587394': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 16:59:43', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'821038881760051204': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 16:58:18', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'821038833009643521': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 16:58:06', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'821038802756050944': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-16 16:57:59', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'826410318343634944': {'fullname': b'SHAZIA', 'timestamp': '2017-01-31 12:42:28', 'user': 'SHAZIA27094321', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'825318945775316992': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 12:25:45', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825317200001171456': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 12:18:48', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825315341446283266': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 12:11:25', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825313949021327360': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 12:05:53', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825312975678476288': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 12:02:01', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825311625154539520': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-28 11:56:39', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'825035918725808133': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-27 17:41:06', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'824686283792474112': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-26 18:31:46', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'824685656354025472': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-26 18:29:17', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'824685225661857792': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-26 18:27:34', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'824612317031755776': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-26 13:37:51', 'user': 'raja_affindi', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'880019125522882560': {'fullname': b'\xd8\xa8\xdb\x92 \xd8\xa8\xd8\xb3 \xd8\xa7\xd9\x86\xd8\xb3\xd8\xa7\xd9\x86 !', 'timestamp': '2017-06-28 11:04:44', 'user': 'kashifh57', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'879783571954782212': {'fullname': b'Yousuf Khan Khattak', 'timestamp': '2017-06-27 19:28:43', 'user': 'realyousufkhan', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'879732953026367488': {'fullname': b'farooq', 'timestamp': '2017-06-27 16:07:35', 'user': 'farooqalikhan10', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884599322817449985': {'fullname': b'Umar Shehzad', 'timestamp': '2017-07-11 02:24:48', 'user': 'UsOffical_1', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'884598426188382208': {'fullname': b'Umar Shehzad', 'timestamp': '2017-07-11 02:21:14', 'user': 'UsOffical_1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884421192186306560': {'fullname': b'Faisal Siddiqui', 'timestamp': '2017-07-10 14:36:58', 'user': 'sid_bh99', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'883761781902123008': {'fullname': b'Kamran Muhammad', 'timestamp': '2017-07-08 18:56:42', 'user': 'iKamranM', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'823837617972281344': {'fullname': b'M.Arshad Siddiqui', 'timestamp': '2017-01-24 10:19:28', 'user': 'ArshadSidiqi', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'823521679896940544': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 13:24:03', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823521642865377280': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 13:23:54', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823511963103850497': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:45:26', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823511609645658112': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:44:02', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823510779915829248': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:40:44', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823510326243168256': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:38:56', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823510158072578048': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:38:16', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823510086152781824': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:37:59', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823510017034702848': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:37:42', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823509815125245953': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:36:54', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823509722833780737': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-23 12:36:32', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823501371383152641': {'fullname': b'Mudasser M Aslam \xc2\xa0\xf0\x9f\x8c\x90', 'timestamp': '2017-01-23 12:03:21', 'user': 'MudasserAslam_', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'823458269163323392': {'fullname': b'Sultan Jatt', 'timestamp': '2017-01-23 09:12:05', 'user': 'Sultan_Hameeed', 'replies': '1', 'likes': '1', 'retweets': '1'}}
+{'823454656873594880': {'fullname': b'imran khan usafzai', 'timestamp': '2017-01-23 08:57:43', 'user': 'ImranUsafzai', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'823440411524009984': {'fullname': b'Dr Fariya Bukhari MD', 'timestamp': '2017-01-23 08:01:07', 'user': 'DrFariyaBukhari', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'823436800559611904': {'fullname': b'Awais Goraya', 'timestamp': '2017-01-23 07:46:46', 'user': 'AwsGoraya', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'823436351492202496': {'fullname': b'\xd8\xa8\xd8\xa7\xd8\xaf\xd9\x84 \xd8\xae\xd8\xa7\xd9\x86  \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-01-23 07:44:59', 'user': 'baaadalkhan', 'replies': '1', 'likes': '2', 'retweets': '2'}}
+{'822872782413381632': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-21 18:25:34', 'user': 'raja_affindi', 'replies': '0', 'likes': '5', 'retweets': '2'}}
+{'822872383287676928': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-21 18:23:59', 'user': 'raja_affindi', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'818214957514969090': {'fullname': b'rizwanali.com', 'timestamp': '2017-01-08 21:57:02', 'user': 'rizwan1972', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818213426413600768': {'fullname': b'rizwanali.com', 'timestamp': '2017-01-08 21:50:57', 'user': 'rizwan1972', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818212356962578432': {'fullname': b'rizwanali.com', 'timestamp': '2017-01-08 21:46:42', 'user': 'rizwan1972', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818211813066211328': {'fullname': b'rizwanali.com', 'timestamp': '2017-01-08 21:44:32', 'user': 'rizwan1972', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818185691435855872': {'fullname': b'Dr Tahir Naqqash', 'timestamp': '2017-01-08 20:00:44', 'user': 'Xardartahir', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'818184680151388161': {'fullname': b'Dr Tahir Naqqash', 'timestamp': '2017-01-08 19:56:43', 'user': 'Xardartahir', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818181998204354560': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 19:46:04', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818176680841854977': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 19:24:56', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818166250832625664': {'fullname': b'HAFEEZ QURESHi', 'timestamp': '2017-01-08 18:43:29', 'user': 'hiffi777', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'818163775425675264': {'fullname': b'\xc2\xa0\xf0\x9f\x95\xb5', 'timestamp': '2017-01-08 18:33:39', 'user': 'Notyourfrnd', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'818143373940953090': {'fullname': b'Rising PTI', 'timestamp': '2017-01-08 17:12:35', 'user': 'BalliBhai_37', 'replies': '0', 'likes': '0', 'retweets': '2'}}
+{'818141566548213760': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 17:05:24', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818141496088076288': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 17:05:07', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818140469934850049': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 17:01:03', 'user': 'raja_affindi', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'818140113167380480': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:59:37', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818140054405124096': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:59:23', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818139771432271873': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:58:16', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818139666373287936': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:57:51', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818139601709699074': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:57:36', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818139575445061632': {'fullname': b'raja fayyaz affindi', 'timestamp': '2017-01-08 16:57:29', 'user': 'raja_affindi', 'replies': '0', 'likes': '0', 'retweets': '0'}}

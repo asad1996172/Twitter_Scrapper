@@ -1,0 +1,19 @@
+{'942817791333322752': {'fullname': b'Abdul Rehman Khan', 'timestamp': '2017-12-18 18:04:12', 'user': 'jagaadoh', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942816648347705344': {'fullname': b'Abdul Rehman Khan', 'timestamp': '2017-12-18 17:59:40', 'user': 'jagaadoh', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942799470168825858': {'fullname': b'IMRAN', 'timestamp': '2017-12-18 16:51:24', 'user': 'imran_azad27', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'942787654315364352': {'fullname': b'suhaib ork', 'timestamp': '2017-12-18 16:04:27', 'user': 'SuhaibOrk', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942769005449957376': {'fullname': b'suhaib ork', 'timestamp': '2017-12-18 14:50:21', 'user': 'SuhaibOrk', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942716837040676864': {'fullname': b'Naveed Hasan Pirzada', 'timestamp': '2017-12-18 11:23:03', 'user': 'intrvnd', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942578804022792198': {'fullname': b'Haroon', 'timestamp': '2017-12-18 02:14:33', 'user': 'HaroonAbbas', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942548677628964866': {'fullname': b'safeena', 'timestamp': '2017-12-18 00:14:51', 'user': 'sheikhsafina', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942506512559296513': {'fullname': b'safeena', 'timestamp': '2017-12-17 21:27:18', 'user': 'sheikhsafina', 'replies': '6', 'likes': '39', 'retweets': '6'}}
+{'942500806812676096': {'fullname': b'\xd9\x82\xd8\xa7\xd8\xa6\xd8\xaf \xda\xa9\xd8\xa7 \xd9\xbe\xd8\xa7\xda\xa9\xd8\xb3\xd8\xaa\xd8\xa7\xd9\x86\xc2\xa0\xf0\x9f\x98\x98', 'timestamp': '2017-12-17 21:04:37', 'user': 'javedsalfiNA83', 'replies': '0', 'likes': '3', 'retweets': '3'}}
+{'942483133886185472': {'fullname': b'Pak Politics', 'timestamp': '2017-12-17 19:54:24', 'user': 'PakPolStats', 'replies': '1', 'likes': '4', 'retweets': '1'}}
+{'942461927137169409': {'fullname': b'ibrar advocate', 'timestamp': '2017-12-17 18:30:08', 'user': 'ibrar_advocate', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942437188251381760': {'fullname': b'chacha', 'timestamp': '2017-12-17 16:51:49', 'user': 'pharmaanalyst86', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942436139109175297': {'fullname': b'Mohammad Sajid', 'timestamp': '2017-12-17 16:47:39', 'user': 'Apnasajid12', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942434970676678657': {'fullname': b'Abdur Rehman Sukhera', 'timestamp': '2017-12-17 16:43:01', 'user': 'AbRehmanSukhera', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'942432442492780544': {'fullname': b'Dr Imtiaz Ahmed', 'timestamp': '2017-12-17 16:32:58', 'user': 'DrImtiazbaloch', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'942431688256315392': {'fullname': b'Sufian Sukhera', 'timestamp': '2017-12-17 16:29:58', 'user': 'SufianSukhera', 'replies': '0', 'likes': '3', 'retweets': '2'}}
+{'942431595314778112': {'fullname': b'Sufian Sukhera', 'timestamp': '2017-12-17 16:29:36', 'user': 'SufianSukhera', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'942427234215882755': {'fullname': b'Hani Qureshi', 'timestamp': '2017-12-17 16:12:16', 'user': 'HaniQureshi5', 'replies': '0', 'likes': '5', 'retweets': '2'}}

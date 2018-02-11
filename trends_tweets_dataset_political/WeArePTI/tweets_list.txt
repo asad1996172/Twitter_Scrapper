@@ -1,0 +1,29 @@
+{'851153427870633984': {'fullname': b'bobby khan', 'timestamp': '2017-04-09 19:22:45', 'user': 'bobbykhan3344', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'851153347436396544': {'fullname': b'bobby khan', 'timestamp': '2017-04-09 19:22:26', 'user': 'bobbykhan3344', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'850076346453807105': {'fullname': b'Pahteechar', 'timestamp': '2017-04-06 20:02:49', 'user': 'pahteechar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'850051537019654144': {'fullname': b'Malik Shahzaib \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-04-06 18:24:14', 'user': 'mshahzaib_98', 'replies': '0', 'likes': '6', 'retweets': '1'}}
+{'849948720644976640': {'fullname': b'Salman raza \xc2\xb6', 'timestamp': '2017-04-06 11:35:40', 'user': 'Buturab110', 'replies': '0', 'likes': '4', 'retweets': '1'}}
+{'849925341304954880': {'fullname': b'Mahnoor Gul', 'timestamp': '2017-04-06 10:02:46', 'user': 'mahnoorr123', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849917382684540928': {'fullname': b'PhoneWorld', 'timestamp': '2017-04-06 09:31:09', 'user': 'PhoneWorldpk', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849844429229785095': {'fullname': b'\xc3\x80m\xc3\xa2\xc3\xa4R kH\xc3\xa0ttAk', 'timestamp': '2017-04-06 04:41:15', 'user': 'Amaarktk1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849787956718075904': {'fullname': b'Fans Club', 'timestamp': '2017-04-06 00:56:51', 'user': 'BilawalMalik16', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849717734225006592': {'fullname': b'Hitesh', 'timestamp': '2017-04-05 20:17:49', 'user': 'hitb007', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849713803956813824': {'fullname': b'Sadaf Khan Nawaid', 'timestamp': '2017-04-05 20:02:12', 'user': 'sadafnawaid', 'replies': '0', 'likes': '4', 'retweets': '2'}}
+{'849705487247577089': {'fullname': b'J Zafar', 'timestamp': '2017-04-05 19:29:09', 'user': 'jamilzafar2002', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'849702809662607361': {'fullname': b'Adeel', 'timestamp': '2017-04-05 19:18:31', 'user': 'AdeelAzher', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849676852163616768': {'fullname': b'Jalil Khan', 'timestamp': '2017-04-05 17:35:22', 'user': 'WizKhan101', 'replies': '1', 'likes': '8', 'retweets': '5'}}
+{'849674000942936065': {'fullname': b'Adnan Khalid', 'timestamp': '2017-04-05 17:24:02', 'user': 'Adnan_Khalid950', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'849673748743630849': {'fullname': b'Ali Asim', 'timestamp': '2017-04-05 17:23:02', 'user': 'Ali_Asim86', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849657765639409666': {'fullname': b'Abdul Ahad Khan \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-04-05 16:19:31', 'user': 'AahadPirZada', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'849651625492791296': {'fullname': b'Faisal Mahmood', 'timestamp': '2017-04-05 15:55:07', 'user': 'atiainaahmad', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849651593456873473': {'fullname': b'Anonymous', 'timestamp': '2017-04-05 15:55:00', 'user': 'annonnyymmous', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849651527241392133': {'fullname': b'Anonymous', 'timestamp': '2017-04-05 15:54:44', 'user': 'annonnyymmous', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849642655504007168': {'fullname': b'Aamir Mustafa', 'timestamp': '2017-04-05 15:19:29', 'user': 'aamir_mustafa10', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849633165350232064': {'fullname': b'Owais Ansari', 'timestamp': '2017-04-05 14:41:46', 'user': 'Owaichi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849632171212013568': {'fullname': b'Uroosa Khan', 'timestamp': '2017-04-05 14:37:49', 'user': 'Uroosakhan_pti', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849629196544602112': {'fullname': b'\xd8\xb4\xd9\x85\xd8\xb3 \xd8\xa7\xd9\x84\xd8\xb1\xd8\xad\xd9\x85\xd8\xa7\xd9\x86 \xd8\xb3\xdb\x8c\xd9\x85\xd8\xa7\xd8\xa8', 'timestamp': '2017-04-05 14:26:00', 'user': 'seemab1989', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849617418179584000': {'fullname': b'\xc2\xa0\xf0\x9f\x8c\xb9Kashif\xc2\xa0\xf0\x9f\x92\x9d', 'timestamp': '2017-04-05 13:39:12', 'user': 'kashifjani1983', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'849611699527090176': {'fullname': b'Doc_Says\xc2\xae', 'timestamp': '2017-04-05 13:16:28', 'user': 'Doc_BilalKhalid', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'849609234744565761': {'fullname': b'Muqtada Hussain', 'timestamp': '2017-04-05 13:06:41', 'user': 'MuqtadaNaqvi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849607204487483393': {'fullname': b'sandhya \xc2\xa0\xf0\x9f\x91\x80', 'timestamp': '2017-04-05 12:58:37', 'user': 'Sandhyakibatein', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'849604823829839872': {'fullname': b'MW WAQAS', 'timestamp': '2017-04-05 12:49:09', 'user': 'Waq_pk', 'replies': '0', 'likes': '2', 'retweets': '0'}}

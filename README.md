@@ -99,3 +99,14 @@ For example:
               filename                tweets per trend
        -------------------------------------------------
        python trends_tweets_scrapper.py 600
+
+______________________________________    Independent Step    (2)______________________________________________________
+
+Run ScrapRetweetedProfiles.py to get profile links, names and usernames of those who retweeted a given  tweet.
+
+Just run it with folder trends_tweets_dataset_political placed in the same directory as this.
+
+This code if stopped before has the capability to continue when it left of.
+
+format of trends_tweets_dataset_political is to put tweets by some person in a folder with its name and then the folder has two files. retweets.txt and tweets_list.txt.
+tweets_list.txt has tweets in the form of dictionary.

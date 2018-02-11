@@ -1,0 +1,20 @@
+{'892505014479880192': {'fullname': b'Adeel Nawaz', 'timestamp': '2017-08-01 21:59:12', 'user': 'AdeelRulbreaker', 'replies': '1', 'likes': '2', 'retweets': '1'}}
+{'892435087844835330': {'fullname': b'Sajid Naseer', 'timestamp': '2017-08-01 17:21:20', 'user': 'SajidNaseer3', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'892272845576962048': {'fullname': b'Yorker', 'timestamp': '2017-08-01 06:36:38', 'user': 'yorker01', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'892267301541744640': {'fullname': b'\xc2\xa0\xf0\x9f\x87\xab\xc2\xa0\xf0\x9f\x87\xa6\xc2\xa0\xf0\x9f\x87\xb7\xc2\xa0\xf0\x9f\x87\xad\xc2\xa0\xf0\x9f\x87\xa6\xc2\xa0\xf0\x9f\x87\xb3', 'timestamp': '2017-08-01 06:14:36', 'user': 'AsliiRajpoot', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'892098168011337728': {'fullname': b'Aiman Rizwan', 'timestamp': '2017-07-31 19:02:32', 'user': 'aimanrizwan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'892027490901925889': {'fullname': b'Adeel Nawaz', 'timestamp': '2017-07-31 14:21:41', 'user': 'AdeelRulbreaker', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'892024879268155392': {'fullname': b'Adeel Nawaz', 'timestamp': '2017-07-31 14:11:18', 'user': 'AdeelRulbreaker', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'892010330917707776': {'fullname': b'Aamir', 'timestamp': '2017-07-31 13:13:30', 'user': 'MuhammadAmirJ11', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891939383598821376': {'fullname': b'Usman Rana', 'timestamp': '2017-07-31 08:31:35', 'user': 'Usman100Rana', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891917004906672133': {'fullname': b'\xd9\xbe\xd8\xa7\xd8\xb4\xd8\xa7 \xd8\xb3\xd8\xb1\xda\xa9\xd8\xa7\xd8\xb1', 'timestamp': '2017-07-31 07:02:39', 'user': 'PashaSarkaar', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'891887219388153857': {'fullname': b'Sadam khan', 'timestamp': '2017-07-31 05:04:18', 'user': 'hussain54544', 'replies': '3', 'likes': '1', 'retweets': '0'}}
+{'891803785651027968': {'fullname': b'zulmi', 'timestamp': '2017-07-30 23:32:46', 'user': 'qullrahmat', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891786820010340357': {'fullname': b'Amir Suleman', 'timestamp': '2017-07-30 22:25:21', 'user': 'amirbinsuleman', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891778030485598209': {'fullname': b'Adil', 'timestamp': '2017-07-30 21:50:25', 'user': 'adilmasod', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891777062771544065': {'fullname': b'YANNI', 'timestamp': '2017-07-30 21:46:34', 'user': 'YANITRICK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891774481773060098': {'fullname': b'Shahzad Ahmad', 'timestamp': '2017-07-30 21:36:19', 'user': 'Shahzad26', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'891772551344656385': {'fullname': b'Shahzad Ahmad', 'timestamp': '2017-07-30 21:28:39', 'user': 'Shahzad26', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891768508425568262': {'fullname': b'Shahzad Ahmad', 'timestamp': '2017-07-30 21:12:35', 'user': 'Shahzad26', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891742806221475842': {'fullname': b'Dr Danish Ebad', 'timestamp': '2017-07-30 19:30:27', 'user': 'MrDanny3', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'891740507285618688': {'fullname': b'Dr Shairzaman', 'timestamp': '2017-07-30 19:21:19', 'user': 'shairzaman129', 'replies': '0', 'likes': '0', 'retweets': '0'}}

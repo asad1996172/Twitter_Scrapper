@@ -1,0 +1,20 @@
+{'902230952948224001': {'fullname': b'Shaheryar Afroze', 'timestamp': '2017-08-28 18:06:36', 'user': 'AfrozeShaheryar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902195475692089345': {'fullname': b'#Ducked', 'timestamp': '2017-08-28 15:45:38', 'user': 'Lifeisshort1011', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'902097340223418368': {'fullname': b'Shaheryar Afroze', 'timestamp': '2017-08-28 09:15:40', 'user': 'AfrozeShaheryar', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'901887351840006145': {'fullname': b'someone', 'timestamp': '2017-08-27 19:21:15', 'user': 'ham2974ever', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901865470609031168': {'fullname': b'comrade \xd8\xa7\xd9\x84\xd8\xb7\xd8\xa7\xd8\xa6\xd8\xb1Amoudi', 'timestamp': '2017-08-27 17:54:18', 'user': 'altaayramoudi', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'901848238151659520': {'fullname': b'Ammar', 'timestamp': '2017-08-27 16:45:50', 'user': 'ammarkhi', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'901837119475331073': {'fullname': b'Ammar', 'timestamp': '2017-08-27 16:01:39', 'user': 'ammarkhi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901836031355486209': {'fullname': b'Mr.Mughal', 'timestamp': '2017-08-27 15:57:19', 'user': 'Mughaljee65', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901834956837720064': {'fullname': b'Mr.Mughal', 'timestamp': '2017-08-27 15:53:03', 'user': 'Mughaljee65', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901832395380465664': {'fullname': b'Bin Hurr', 'timestamp': '2017-08-27 15:42:52', 'user': 'aviator_i', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901823577841967104': {'fullname': b'someone', 'timestamp': '2017-08-27 15:07:50', 'user': 'ham2974ever', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901820166941618176': {'fullname': b'Ammar Ahtasham', 'timestamp': '2017-08-27 14:54:17', 'user': 'MaanAmmar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'901812169058156546': {'fullname': b'#EAR #TeamInsaaf', 'timestamp': '2017-08-27 14:22:30', 'user': 'UrduJOKEsms', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'901810489184878592': {'fullname': b'#EAR #TeamInsaaf', 'timestamp': '2017-08-27 14:15:50', 'user': 'UrduJOKEsms', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'901798467064000512': {'fullname': b'Moazzim Shafqat Ali', 'timestamp': '2017-08-27 13:28:03', 'user': 'MoazzimShafqat', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'901797755697418241': {'fullname': b'Moazzim Shafqat Ali', 'timestamp': '2017-08-27 13:25:14', 'user': 'MoazzimShafqat', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'901797354495504384': {'fullname': b'Moazzim Shafqat Ali', 'timestamp': '2017-08-27 13:23:38', 'user': 'MoazzimShafqat', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'901793932660674560': {'fullname': b'Arif', 'timestamp': '2017-08-27 13:10:02', 'user': 'M_Arif__', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'901789429194526721': {'fullname': b'Sobia Khan', 'timestamp': '2017-08-27 12:52:09', 'user': 'Sobia_dhamial', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'901788048995872768': {'fullname': b'\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0 \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0 \xd8\xa2\xd9\x85 \xd8\xa2\xd8\xaf\xd9\x85\xdb\x8c', 'timestamp': '2017-08-27 12:46:39', 'user': 'Laqakabootar', 'replies': '0', 'likes': '0', 'retweets': '0'}}

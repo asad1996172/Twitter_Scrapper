@@ -1,0 +1,5 @@
+{'866367269504516097': {'fullname': b'Rising PTI', 'timestamp': '2017-05-21 18:57:08', 'user': 'BalliBhai_37', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'865219573527785472': {'fullname': b'\xd8\xb4\xd8\xa7\xd8\xa6\xd9\x81 \xd9\x86\xd9\x88\xd8\xb1 \xd8\xa2\xd9\x81\xd8\xb1\xdb\x8c\xd8\xaf\xdb\x8c \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-05-18 14:56:35', 'user': 'shahifafridi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'865218264162611201': {'fullname': b'\xd8\xb4\xd8\xa7\xd8\xa6\xd9\x81 \xd9\x86\xd9\x88\xd8\xb1 \xd8\xa2\xd9\x81\xd8\xb1\xdb\x8c\xd8\xaf\xdb\x8c \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-05-18 14:51:23', 'user': 'shahifafridi', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'865075637723201536': {'fullname': b'Aamir official', 'timestamp': '2017-05-18 05:24:39', 'user': 'AamirShezi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'865028426687815681': {'fullname': b'Omar Baloch', 'timestamp': '2017-05-18 02:17:03', 'user': 'omarchakarzai', 'replies': '1', 'likes': '1', 'retweets': '7'}}

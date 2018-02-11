@@ -1,0 +1,132 @@
+{'878950610384461828': {'fullname': b'Faisal Sherjan', 'timestamp': '2017-06-25 12:18:50', 'user': 'fsherjan', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'890716875793068032': {'fullname': b'#Pakistan', 'timestamp': '2017-07-27 23:33:46', 'user': 'musaaffan', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'890668029314334720': {'fullname': b'Xmile Khan \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-07-27 20:19:40', 'user': 'xmilekhan', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'890666997113012225': {'fullname': b'Xmile Khan \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-07-27 20:15:34', 'user': 'xmilekhan', 'replies': '0', 'likes': '3', 'retweets': '1'}}
+{'890659380198219777': {'fullname': b'Khurram Khan', 'timestamp': '2017-07-27 19:45:18', 'user': 'imspecialk69', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'890640296551342081': {'fullname': b'JB', 'timestamp': '2017-07-27 18:29:28', 'user': 'badnocs', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'890633972757045249': {'fullname': b'Ali Mehdi', 'timestamp': '2017-07-27 18:04:20', 'user': 'iamalimehdi', 'replies': '0', 'likes': '16', 'retweets': '14'}}
+{'890618526095990784': {'fullname': b'Ali Mehdi', 'timestamp': '2017-07-27 17:02:58', 'user': 'iamalimehdi', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'889032920878505984': {'fullname': b'Jahangir Ahmed Awan', 'timestamp': '2017-07-23 08:02:20', 'user': 'IamJahangirAwan', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'888539165582925827': {'fullname': b'\xd8\xb4\xd9\x85\xd8\xb9\xd9\x8e \xd9\x85\xd8\xaa\xda\xbe\xd8\xa7\xd9\x86\xdb\x8c Shama Mithani', 'timestamp': '2017-07-21 23:20:19', 'user': 'shama_mithani', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'888466822776979457': {'fullname': b'Hassan Imran', 'timestamp': '2017-07-21 18:32:52', 'user': 'HassanImranEE', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'888338578824192000': {'fullname': b'Yasir Umer', 'timestamp': '2017-07-21 10:03:16', 'user': 'YasirUmer87', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'888336912901177345': {'fullname': b'Hassan Imran', 'timestamp': '2017-07-21 09:56:39', 'user': 'HassanImranEE', 'replies': '0', 'likes': '1', 'retweets': '2'}}
+{'905157473186742274': {'fullname': b'PakistaniBaloch', 'timestamp': '2017-09-05 19:55:33', 'user': 'AhsanBa18765269', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'905121598658813952': {'fullname': b'Osama HT', 'timestamp': '2017-09-05 17:33:00', 'user': 'OsamaHasanPTI', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905115369509093380': {'fullname': b'AlBalushi', 'timestamp': '2017-09-05 17:08:14', 'user': 'DrKhan88', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905073516923543552': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-05 14:21:56', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905058390354907136': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-05 13:21:50', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905058351213674496': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-05 13:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905022922347225088': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-05 11:00:53', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905013053007290368': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-05 10:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904947314518884352': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-05 06:00:27', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904773711651274752': {'fullname': b'AlBalushi', 'timestamp': '2017-09-04 18:30:37', 'user': 'DrKhan88', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'904680863639711745': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-04 12:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'904660441875566596': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-04 11:00:31', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904620519105990656': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-04 08:21:53', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'904620497341747201': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-04 08:21:48', 'user': 'InsafLahore', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'904620488177090560': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-04 08:21:46', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'904620466144464900': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-09-04 08:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'904584915882311680': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-04 06:00:24', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904566032362242048': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-04 04:45:22', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904298125132791808': {'fullname': b'Ajmal Malik', 'timestamp': '2017-09-03 11:00:48', 'user': 'ajmalik999', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'904298092790517760': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-09-03 11:00:41', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922470823268683776': {'fullname': b'Waqas Siddiqui', 'timestamp': '2017-10-23 14:32:37', 'user': 'WaqasASiddiqui', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'922468197726654464': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 14:22:11', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922468158832873474': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 14:22:02', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922437943037497344': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 12:21:58', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922437929162637312': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 12:21:55', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'922392643140816896': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 09:21:58', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'922377539275935744': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 08:21:56', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922347343684558848': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 06:21:57', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922347325976203266': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 06:21:53', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922347308007772160': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 06:21:49', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922347298675417089': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 06:21:47', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922347272612040705': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-23 06:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922120816355106816': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-22 15:21:49', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922119711457935361': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-10-22 15:17:26', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922105727568793600': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-22 14:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922015124864499713': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-22 08:21:50', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922015101594537984': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-22 08:21:45', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921849075305205761': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-21 21:22:01', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'921849049367633920': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-21 21:21:55', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'921849023379705856': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-21 21:21:48', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'934155107989680129': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 20:21:48', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934155077274816518': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 20:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934140066254983168': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 19:22:01', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934140039688343553': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 19:21:55', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934140021912817667': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 19:21:51', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934140004183318528': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 19:21:47', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'934139977499365376': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 19:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934124935009751040': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 18:21:54', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934124904601083906': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 18:21:47', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934124878176845824': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 18:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934094749744721920': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 16:21:57', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934094740210974720': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 16:21:55', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934094718094495744': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 16:21:50', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934094679062310912': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 16:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934079694386982915': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 15:22:08', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934079663038783488': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 15:22:00', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934079628444086276': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 15:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934079619115954176': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 15:21:50', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934079580314488833': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 15:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'934064528232534016': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-24 14:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884818778747305984': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-11 16:56:50', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884516524869861376': {'fullname': b'Imran Ahmed', 'timestamp': '2017-07-10 20:55:47', 'user': 'ImranAhmedMeer', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'884498421121335297': {'fullname': b'Hassan Imran', 'timestamp': '2017-07-10 19:43:51', 'user': 'HassanImranEE', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884495174243688448': {'fullname': b'Fahad Faheem Aziz', 'timestamp': '2017-07-10 19:30:57', 'user': 'fa75', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'884427391388536832': {'fullname': b'.', 'timestamp': '2017-07-10 15:01:36', 'user': 'iramizraja_', 'replies': '0', 'likes': '4', 'retweets': '1'}}
+{'884425786094043137': {'fullname': b'\xd8\xad\xd9\x85\xd8\xb2\xdb\x81 \xd8\xae\xd8\xa7\xd9\x86', 'timestamp': '2017-07-10 14:55:13', 'user': 'OiA_Hamzayy', 'replies': '1', 'likes': '0', 'retweets': '1'}}
+{'884424202757038081': {'fullname': b'Sani Raza Khanani', 'timestamp': '2017-07-10 14:48:56', 'user': 'SaniRaza', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'884423252088688640': {'fullname': b'Sani Raza Khanani', 'timestamp': '2017-07-10 14:45:09', 'user': 'SaniRaza', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'884414051572477952': {'fullname': b'Its Obaid \xe2\x84\xa2', 'timestamp': '2017-07-10 14:08:36', 'user': 'BaahiNaheBae', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'884405720896028672': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-10 13:35:29', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '3', 'retweets': '1'}}
+{'884405326988034048': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-10 13:33:56', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884405241717772288': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-10 13:33:35', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884405213054074881': {'fullname': b'Yamada II', 'timestamp': '2017-07-10 13:33:28', 'user': 'ii_yamada', 'replies': '0', 'likes': '3', 'retweets': '3'}}
+{'884404906387423232': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-10 13:32:15', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'884404814422999043': {'fullname': b'Syed Shamir', 'timestamp': '2017-07-10 13:31:53', 'user': 'SShamirOfficial', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916624655104045056': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-07 11:22:02', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916624581808545792': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-07 11:21:45', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916277323732791296': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-06 12:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'916277285128474624': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-06 12:21:43', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916277275737378816': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-06 12:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'916117375321227264': {'fullname': b'Spartacus Asli Wala', 'timestamp': '2017-10-06 01:46:17', 'user': 'SpartacusAsli', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916018437083844608': {'fullname': b'AbdAli Bacha', 'timestamp': '2017-10-05 19:13:08', 'user': 'abu_sarban', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916005544451813376': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 18:21:55', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'916005487375785986': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 18:21:41', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915990411327557632': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 17:21:46', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915975412554989569': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 16:22:11', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'915904322168377344': {'fullname': b'M.Sohaib', 'timestamp': '2017-10-05 11:39:41', 'user': 'KhanHoney24', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915899838558035968': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 11:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915899802738708480': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 11:21:44', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915899788771635201': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 11:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915869590269435904': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 09:21:41', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915854490896670720': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-10-05 08:21:41', 'user': 'InsafLahore', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'915715779148083200': {'fullname': b'AbdAli Bacha', 'timestamp': '2017-10-04 23:10:29', 'user': 'abu_sarban', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915692160971927552': {'fullname': b'Ali Zaidi', 'timestamp': '2017-10-04 21:36:38', 'user': 'TheAliZaidiBlog', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'915690718131257344': {'fullname': b'AbdAli Bacha', 'timestamp': '2017-10-04 21:30:54', 'user': 'abu_sarban', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'947087857444970497': {'fullname': b'Salman Ali Awan', 'timestamp': '2017-12-30 12:51:55', 'user': 'SalmanAwanPTI', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'946102710826360832': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-12-27 19:37:18', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'945972033258704896': {'fullname': b'Danyal Saleem', 'timestamp': '2017-12-27 10:58:02', 'user': 'iamDanyalsaleem', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'945958022869929984': {'fullname': b'Tahir Rehman Butt', 'timestamp': '2017-12-27 10:02:22', 'user': 'primeguild', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928341877769809920': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 19:22:06', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928341868215259137': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 19:22:03', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928341858698383362': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 19:22:01', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928341822606397440': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 19:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928341787697131526': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 19:21:44', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928326741046779904': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 18:21:57', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928326731345350656': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 18:21:54', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928326704698920960': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 18:21:48', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928326685996482561': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 18:21:44', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928326672306311168': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 18:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928296488584777728': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 16:21:44', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928296474802302979': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 16:21:41', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928281440688721920': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 15:21:56', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928281405515292672': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 15:21:48', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928281374582337536': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 15:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928266374916509697': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 14:22:04', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928266340477136897': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 14:21:56', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928266322395435008': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 14:21:52', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928266312983379969': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 14:21:50', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928266274387431425': {'fullname': b'#GoneNawazGone \xc2\xa0\xf0\x9f\x98\x83', 'timestamp': '2017-11-08 14:21:40', 'user': 'InsafLahore', 'replies': '0', 'likes': '0', 'retweets': '0'}}

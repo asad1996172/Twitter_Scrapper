@@ -1,0 +1,6 @@
+{'865203707134308353': {'fullname': b'Daniyal Chaudhry', 'timestamp': '2017-05-18 13:53:33', 'user': 'Daniyallre', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'864893046059651072': {'fullname': b'Sabahat Ullah', 'timestamp': '2017-05-17 17:19:05', 'user': 'SabahatKhanPPP', 'replies': '0', 'likes': '9', 'retweets': '4'}}
+{'892997892876754944': {'fullname': b'Zeeshan Bukhari \xc2\xa0\xf0\x9f\x8c\x90', 'timestamp': '2017-08-03 06:37:43', 'user': 'Oye_Bukhari', 'replies': '0', 'likes': '14', 'retweets': '6'}}
+{'942721298836475904': {'fullname': b'Bahramand Khan Tangi', 'timestamp': '2017-12-18 11:40:47', 'user': 'bahramand_tangi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'875689271264514048': {'fullname': b'Arooba Khan', 'timestamp': '2017-06-16 12:19:26', 'user': 'AroobaKh', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'874496360078233600': {'fullname': b'Zeeshan Bukhari \xc2\xa0\xf0\x9f\x8c\x90', 'timestamp': '2017-06-13 05:19:14', 'user': 'Oye_Bukhari', 'replies': '0', 'likes': '43', 'retweets': '15'}}

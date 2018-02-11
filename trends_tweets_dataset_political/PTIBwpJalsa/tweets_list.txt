@@ -1,0 +1,25 @@
+{'823734172489490432': {'fullname': b'Gift Hughes', 'timestamp': '2017-01-24 03:28:25', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'823070718845980672': {'fullname': b'Gift Hughes', 'timestamp': '2017-01-22 07:32:05', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'854872835864571904': {'fullname': b'Gift Hughes', 'timestamp': '2017-04-20 01:42:21', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'853235221835198465': {'fullname': b'Gift Hughes', 'timestamp': '2017-04-15 13:15:03', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'890019164445745152': {'fullname': b'Gift Hughes', 'timestamp': '2017-07-26 01:21:19', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'882772902017368065': {'fullname': b'Gift Hughes', 'timestamp': '2017-07-06 01:27:15', 'user': 'vanorthern', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'819260877446803467': {'fullname': b'Kinza Ki Phudi', 'timestamp': '2017-01-11 19:13:08', 'user': 'KinzaKiPhudi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818941107627315200': {'fullname': b'PTI Chishtian', 'timestamp': '2017-01-10 22:02:29', 'user': 'PTICTNOfficial', 'replies': '0', 'likes': '4', 'retweets': '0'}}
+{'818755416561745922': {'fullname': b'Asad Ullah Khan', 'timestamp': '2017-01-10 09:44:37', 'user': '7f8f6898466747d', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'818742711704551424': {'fullname': b'Nousherwan Niazi', 'timestamp': '2017-01-10 08:54:08', 'user': 'Nousherwann', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818739353832849408': {'fullname': b'Nousherwan Niazi', 'timestamp': '2017-01-10 08:40:48', 'user': 'Nousherwann', 'replies': '0', 'likes': '5', 'retweets': '5'}}
+{'818688077090738176': {'fullname': b'Tariq', 'timestamp': '2017-01-10 05:17:02', 'user': 'Tariqlahor', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818590039579959297': {'fullname': b'Syed Zaid Mustafa Gardezi', 'timestamp': '2017-01-09 22:47:28', 'user': 'AbunuhZaid', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'818511979111481344': {'fullname': b'Ishaq Ahmad', 'timestamp': '2017-01-09 17:37:17', 'user': 'ishaq_saad', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818439386987692032': {'fullname': b'ma\xd8\xacid', 'timestamp': '2017-01-09 12:48:50', 'user': 'MajidHumayun', 'replies': '1', 'likes': '7', 'retweets': '10'}}
+{'818435014635429888': {'fullname': b'bobby khan', 'timestamp': '2017-01-09 12:31:27', 'user': 'bobbykhan3344', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818432763435040776': {'fullname': b'Zuhaib', 'timestamp': '2017-01-09 12:22:31', 'user': 'Zuhaib_Tufail', 'replies': '0', 'likes': '5', 'retweets': '3'}}
+{'818426149055451136': {'fullname': b'\xc2\xa0\xe2\x9c\xa8 I Support PTI \xc2\xa0\xe2\x9c\xa8', 'timestamp': '2017-01-09 11:56:14', 'user': 'ArshhhPTI', 'replies': '0', 'likes': '7', 'retweets': '3'}}
+{'818422397175037952': {'fullname': b'Mubashir Ali', 'timestamp': '2017-01-09 11:41:19', 'user': 'IMubashir_Ali', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'818420249326456832': {'fullname': b'Ramdan Mubarik', 'timestamp': '2017-01-09 11:32:47', 'user': 'Ramdanmubarik', 'replies': '1', 'likes': '1', 'retweets': '3'}}
+{'818419625121619968': {'fullname': b'Content Generator', 'timestamp': '2017-01-09 11:30:18', 'user': 'ContentMatic', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'818412306359009281': {'fullname': b'Syedasgher Syedasghe', 'timestamp': '2017-01-09 11:01:13', 'user': 'syedasghe', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'818396264199032832': {'fullname': b'Today Trendz', 'timestamp': '2017-01-09 09:57:29', 'user': 'Today_Trendz', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'818393779166183424': {'fullname': b'KHYBER AFRIDI \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-01-09 09:47:36', 'user': 'kkafridi22', 'replies': '1', 'likes': '4', 'retweets': '0'}}
+{'818388880831475712': {'fullname': b'Mirza Zaheer Ahmed', 'timestamp': '2017-01-09 09:28:08', 'user': 'mza709', 'replies': '1', 'likes': '1', 'retweets': '0'}}

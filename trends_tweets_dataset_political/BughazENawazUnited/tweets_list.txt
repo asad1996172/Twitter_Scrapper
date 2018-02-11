@@ -1,0 +1,21 @@
+{'940531850409381889': {'fullname': b'Imran', 'timestamp': '2017-12-12 10:40:42', 'user': 'imranPmlN', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'940247405139775490': {'fullname': b'Choudhry Rashid PMLN', 'timestamp': '2017-12-11 15:50:24', 'user': 'RashidAbdulRas3', 'replies': '1', 'likes': '4', 'retweets': '1'}}
+{'940189830448861184': {'fullname': b'Ali Gill', 'timestamp': '2017-12-11 12:01:38', 'user': 'AliGill265', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'939866104977031171': {'fullname': b'USMAN \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-12-10 14:35:15', 'user': 'realusmanazam', 'replies': '0', 'likes': '1', 'retweets': '2'}}
+{'939827825095380992': {'fullname': b'Sadiyon Ka Beta', 'timestamp': '2017-12-10 12:03:09', 'user': 'DEVTA300', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939812983903019008': {'fullname': b'Abdulhaq Malik PML  N', 'timestamp': '2017-12-10 11:04:10', 'user': 'AbdulhaqMalik6', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939812256950423552': {'fullname': b'Abdulhaq Malik PML  N', 'timestamp': '2017-12-10 11:01:17', 'user': 'AbdulhaqMalik6', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'939811779282112512': {'fullname': b'Abdulhaq Malik PML  N', 'timestamp': '2017-12-10 10:59:23', 'user': 'AbdulhaqMalik6', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939790864091664385': {'fullname': b'Raja Muhammad Ashfaq pml.n', 'timestamp': '2017-12-10 09:36:17', 'user': 'RajaMuhammadAs6', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'939778872094199808': {'fullname': b'NK Sudhuzai.', 'timestamp': '2017-12-10 08:48:38', 'user': 'NKsudhuzai_Pmln', 'replies': '1', 'likes': '11', 'retweets': '3'}}
+{'939767444624863232': {'fullname': b'Naveed Asghar.', 'timestamp': '2017-12-10 08:03:13', 'user': 'NA_Bodla', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'939759237210804224': {'fullname': b'IMRAN', 'timestamp': '2017-12-10 07:30:36', 'user': 'imran_azad27', 'replies': '0', 'likes': '5', 'retweets': '3'}}
+{'939726239270653957': {'fullname': b'\xd8\xa8\xd8\xa7\xd8\xa8\xd8\xa7 \xd8\xb1\xd8\xad\xd9\x85\xd8\xaa\xdb\x92 \xd9\x81\xdb\x8c\xd8\xb5\xd9\x84\xdb\x81 \xd8\xa8\xd8\xaf\xd9\x84\xd9\x88', 'timestamp': '2017-12-10 05:19:29', 'user': 'RedMaster786', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939726198686601217': {'fullname': b'\xd8\xa8\xd8\xa7\xd8\xa8\xd8\xa7 \xd8\xb1\xd8\xad\xd9\x85\xd8\xaa\xdb\x92 \xd9\x81\xdb\x8c\xd8\xb5\xd9\x84\xdb\x81 \xd8\xa8\xd8\xaf\xd9\x84\xd9\x88', 'timestamp': '2017-12-10 05:19:19', 'user': 'RedMaster786', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939713537173278720': {'fullname': b'Syed AK Saddiq', 'timestamp': '2017-12-10 04:29:00', 'user': 'tdUAE9at7XULRnF', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939712545115529216': {'fullname': b'Syed AK Saddiq', 'timestamp': '2017-12-10 04:25:04', 'user': 'tdUAE9at7XULRnF', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939711563430285312': {'fullname': b'\xd8\xb4\xdb\x8c\xd8\xae\xd9\x88\xd9\xbe\xd9\x88\xd8\xb1\xdb\x81 \xda\xa9\xd8\xa7 \xd9\x84\xdb\x8c\xda\xaf\xdb\x8c \xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86', 'timestamp': '2017-12-10 04:21:10', 'user': 'SheikhRashid550', 'replies': '0', 'likes': '5', 'retweets': '4'}}
+{'939706301327839232': {'fullname': b'\xd8\xb4\xdb\x8c\xd8\xae\xd9\x88\xd9\xbe\xd9\x88\xd8\xb1\xdb\x81 \xda\xa9\xd8\xa7 \xd9\x84\xdb\x8c\xda\xaf\xdb\x8c \xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86', 'timestamp': '2017-12-10 04:00:15', 'user': 'SheikhRashid550', 'replies': '0', 'likes': '23', 'retweets': '15'}}
+{'939704658444120064': {'fullname': b'\xd8\xb4\xdb\x8c\xd8\xae\xd9\x88\xd9\xbe\xd9\x88\xd8\xb1\xdb\x81 \xda\xa9\xd8\xa7 \xd9\x84\xdb\x8c\xda\xaf\xdb\x8c \xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86\xc2\xa0\xf0\x9f\x90\x86', 'timestamp': '2017-12-10 03:53:44', 'user': 'SheikhRashid550', 'replies': '0', 'likes': '6', 'retweets': '2'}}
+{'939695041907478528': {'fullname': b'Farooq khan', 'timestamp': '2017-12-10 03:15:31', 'user': 'FarooqK12919187', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939643152729804800': {'fullname': b'Malik Sohail Awan', 'timestamp': '2017-12-09 23:49:19', 'user': 'MalikSohailAw18', 'replies': '0', 'likes': '0', 'retweets': '0'}}

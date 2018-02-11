@@ -1,0 +1,20 @@
+{'942900912993062912': {'fullname': b'Mother Mercury.', 'timestamp': '2017-12-18 23:34:30', 'user': 'killertati71', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'942724512222711809': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-18 11:53:33', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942494358665908224': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-17 20:39:00', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941997588831752193': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-16 11:45:01', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941983854847582208': {'fullname': b'asad ali', 'timestamp': '2017-12-16 10:50:26', 'user': 'asadalikhatana', 'replies': '2', 'likes': '0', 'retweets': '0'}}
+{'941978044285284353': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-12-16 10:27:21', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941953431736070144': {'fullname': b'Shakir Ameen', 'timestamp': '2017-12-16 08:49:33', 'user': 'ShakirAmeen3', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941782334583525376': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-15 21:29:40', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941706389721960448': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-12-15 16:27:54', 'user': 'DistinctRebel', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'941705755023036416': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-12-15 16:25:22', 'user': 'DistinctRebel', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'941633095371055106': {'fullname': b'Bhatti', 'timestamp': '2017-12-15 11:36:39', 'user': 'TehzeebXb', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'941627035952152578': {'fullname': b'Sheikh Tariq', 'timestamp': '2017-12-15 11:12:34', 'user': 'journotariq', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'941324824521138177': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-14 15:11:41', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941309879914024961': {'fullname': b'Jazzy Khan | \xd8\xac\xdb\x8c\xd8\xb3\xd9\x85\xdb\x8c\xd9\x86', 'timestamp': '2017-12-14 14:12:18', 'user': 'JazzyEnayatian', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941011547312263170': {'fullname': b'KarachiKaPatwari', 'timestamp': '2017-12-13 18:26:50', 'user': 'KarachiKPatwari', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940999386171170817': {'fullname': b'HumSub.TV', 'timestamp': '2017-12-13 17:38:31', 'user': 'HumSub_TV', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940964576153227264': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-13 15:20:11', 'user': 'nonstopm4301', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'940954070885502977': {'fullname': b'Jasarat News', 'timestamp': '2017-12-13 14:38:27', 'user': 'Jasaratorg', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940917506654572544': {'fullname': b'khurram', 'timestamp': '2017-12-13 12:13:09', 'user': 'KhurramSayss', 'replies': '0', 'likes': '5', 'retweets': '3'}}
+{'940888817703292929': {'fullname': b'Voice Of Pakistan', 'timestamp': '2017-12-13 10:19:09', 'user': 'UsmanMohmandPk', 'replies': '0', 'likes': '1', 'retweets': '0'}}

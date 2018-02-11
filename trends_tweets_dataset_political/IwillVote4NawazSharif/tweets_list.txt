@@ -1,0 +1,24 @@
+{'943568603663687680': {'fullname': b'Muhammad Talha\xc2\xa0\xf0\x9f\x94\x9d\xc2\xa0\xe2\x8f\xb3', 'timestamp': '2017-12-20 19:47:40', 'user': 'talha7118', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'936911502052704256': {'fullname': b'Hafiz Muhammad Hamza', 'timestamp': '2017-12-02 10:54:43', 'user': 'HafizMHamza212', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'936184330778562561': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:45:12', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'936183771270959104': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:42:59', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'936181297625616384': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:33:09', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'936180817667219456': {'fullname': b'\xd9\x85\xdb\x8c\xd8\xa7\xda\xba #\xd9\x86\xd9\x88\xd8\xa7\xd8\xb2\xd8\xb4\xd8\xb1\xdb\x8c\xd9\x81 \xda\xa9\xd8\xa7 \xd8\xaf\xdb\x8c\xd9\x88\xd8\xa7\xd9\x86\xdb\x81', 'timestamp': '2017-11-30 10:31:14', 'user': 'AntiPakEnemies', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'936180589400641536': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:30:20', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'936177235400241153': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:17:00', 'user': 'AshfaqInayat77', 'replies': '2', 'likes': '7', 'retweets': '2'}}
+{'936173269429997568': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:01:15', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'936173127930957826': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 10:00:41', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'936172889765826561': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 09:59:44', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '4', 'retweets': '3'}}
+{'936161544513228801': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 09:14:39', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'936149364132777984': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 08:26:15', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'936142529635942403': {'fullname': b'Ashfaq Chaudhary', 'timestamp': '2017-11-30 07:59:06', 'user': 'AshfaqInayat77', 'replies': '0', 'likes': '6', 'retweets': '3'}}
+{'936125098095972352': {'fullname': b'Rana Arsalan Sohail', 'timestamp': '2017-11-30 06:49:50', 'user': 'Arsalanpmln', 'replies': '0', 'likes': '4', 'retweets': '0'}}
+{'936109978875723776': {'fullname': b'Zubair Faisal Abbasi', 'timestamp': '2017-11-30 05:49:45', 'user': 'zubairabbasi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'936101932665630720': {'fullname': b'iaamna', 'timestamp': '2017-11-30 05:17:47', 'user': 'AamnaSarim', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'936067569043300353': {'fullname': b'Umar Awais Awan', 'timestamp': '2017-11-30 03:01:14', 'user': 'umarawsis', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'935997743419543554': {'fullname': b'Sobia Aqeel', 'timestamp': '2017-11-29 22:23:46', 'user': 'SobiaAqeel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937741841167994881': {'fullname': b'ZahidHussainRajPut', 'timestamp': '2017-12-04 17:54:11', 'user': 'ZahidHussain_R', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937672197887406080': {'fullname': b'Rasheed Khichi', 'timestamp': '2017-12-04 13:17:27', 'user': 'KhichiRasheed', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'937438319188889605': {'fullname': b'Raja Ubaid Janjua', 'timestamp': '2017-12-03 21:48:06', 'user': 'UbaidJanjua4', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937339530100719617': {'fullname': b'pmln786', 'timestamp': '2017-12-03 15:15:33', 'user': 'LOVEUPMLN786', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'937251131008397312': {'fullname': b'Syed ALi\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-12-03 09:24:17', 'user': 'syedalishamoil', 'replies': '0', 'likes': '0', 'retweets': '0'}}

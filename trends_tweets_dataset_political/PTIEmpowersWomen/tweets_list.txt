@@ -1,0 +1,22 @@
+{'901895514869964800': {'fullname': b'Hoorain Hassan', 'timestamp': '2017-08-27 19:53:41', 'user': 'hoorain_hassan1', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'898274261550473216': {'fullname': b'SahibXada Umar', 'timestamp': '2017-08-17 20:04:07', 'user': 'sahibxadaumar', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'896849953557020673': {'fullname': b'Ahmad \xc2\xa0\xe2\x9d\xa4Faiz', 'timestamp': '2017-08-13 21:44:26', 'user': 'Ahmadfaiz2222', 'replies': '2', 'likes': '0', 'retweets': '0'}}
+{'896803989911744513': {'fullname': b'\xd8\xa8\xdb\x81\xd8\xa7\xd9\x88\xd9\x97\xd8\xa7\xd9\x84\xd8\xad\xd9\x82', 'timestamp': '2017-08-13 18:41:47', 'user': 'bahaAfghan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'896797274780696576': {'fullname': b'Yes Sir,', 'timestamp': '2017-08-13 18:15:06', 'user': 'muhammadelyas1', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'896796969158537216': {'fullname': b'Imtiaz Khan\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-08-13 18:13:53', 'user': 'imtiazGopang', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'895252398729555969': {'fullname': b'Haris', 'timestamp': '2017-08-09 11:56:19', 'user': 'TachyonFlash', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'895249316541026305': {'fullname': b'Ramxi Khan', 'timestamp': '2017-08-09 11:44:04', 'user': 'RamxiKhan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894932285358841856': {'fullname': b'Anwar Pakistani', 'timestamp': '2017-08-08 14:44:18', 'user': 'anwargapakistan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894676911036792833': {'fullname': b'Usman Muhammad', 'timestamp': '2017-08-07 21:49:32', 'user': 'UsmanMuhammad84', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'894633686653644805': {'fullname': b'Rashid Abbasi', 'timestamp': '2017-08-07 18:57:47', 'user': 'abbasirshi', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894539488080343040': {'fullname': b'\xd8\xb3\xd8\xa8 \xd9\x84\xd9\x88\xda\xaf \xda\xa9\xdb\x81 \xd8\xb1\xdb\x81\xdb\x92 \xd8\xaa\xda\xbe\xdb\x92', 'timestamp': '2017-08-07 12:43:28', 'user': 'hassantalalkhan', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894425563838001152': {'fullname': b'Zafar Raja', 'timestamp': '2017-08-07 05:10:46', 'user': 'ZR786', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894418054104440832': {'fullname': b'Zeenia', 'timestamp': '2017-08-07 04:40:56', 'user': 'Uneasy_lies', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'894225751477817344': {'fullname': b'Ali Khan', 'timestamp': '2017-08-06 15:56:47', 'user': 'i_amAli', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894218978150797313': {'fullname': b'Bay Bus Shehri', 'timestamp': '2017-08-06 15:29:52', 'user': 'usmaniq', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894209816708698112': {'fullname': b'Chaudhry Tahir Din', 'timestamp': '2017-08-06 14:53:28', 'user': 'pmlnchtahir', 'replies': '1', 'likes': '1', 'retweets': '0'}}
+{'894185540010037249': {'fullname': b'\xc2\xa0\xe2\x98\x83\xef\xb8\x8fPinky Baba #Clairvoyant\xc2\xa0\xe2\x98\x83\xef\xb8\x8f', 'timestamp': '2017-08-06 13:17:00', 'user': 'AatifAzio', 'replies': '2', 'likes': '2', 'retweets': '0'}}
+{'894121863378608128': {'fullname': b'Shimal Watson \xc2\xa0\xf0\x9f\x90\xb8', 'timestamp': '2017-08-06 09:03:58', 'user': 'peaceaman4', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894090110022500352': {'fullname': b'Ziaullah Mirza', 'timestamp': '2017-08-06 06:57:48', 'user': 'ziaullah699', 'replies': '0', 'likes': '2', 'retweets': '2'}}
+{'894002302889197568': {'fullname': b'Seemal Raja', 'timestamp': '2017-08-06 01:08:53', 'user': 'Seemal_1', 'replies': '2', 'likes': '18', 'retweets': '5'}}
+{'893999386228924416': {'fullname': b'Esperanza', 'timestamp': '2017-08-06 00:57:18', 'user': 'Esperan18111047', 'replies': '0', 'likes': '0', 'retweets': '0'}}

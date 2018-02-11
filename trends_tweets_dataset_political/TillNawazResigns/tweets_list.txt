@@ -1,0 +1,20 @@
+{'873289797380472833': {'fullname': b'PPP Revolutionary Party', 'timestamp': '2017-06-09 21:24:47', 'user': 'PakPeoplzParty', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873288935136518144': {'fullname': b'PPP Revolutionary Party', 'timestamp': '2017-06-09 21:21:21', 'user': 'PakPeoplzParty', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873271805636747266': {'fullname': b'Adger Alam', 'timestamp': '2017-06-09 20:13:17', 'user': 'AdgerAlam', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873266573804548096': {'fullname': b'Rajpooot Areesha', 'timestamp': '2017-06-09 19:52:30', 'user': 'rajpootareesha', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873266563465564160': {'fullname': b'\xd9\x85\xd8\xaf\xdb\x8c\xd8\xad\xdb\x81 \xd8\xae\xd9\x88\xd8\xa7\xd8\xac\xdb\x81', 'timestamp': '2017-06-09 19:52:27', 'user': 'MadeeehaKhwajja', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873266498999111680': {'fullname': b'RehanaMahajabeen', 'timestamp': '2017-06-09 19:52:12', 'user': 'rehanamahajabee', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873266316668547074': {'fullname': b'\xd9\x81\xd8\xb1\xd8\xb2\xd8\xa7\xd9\x86\xdb\x81 \xd8\xb1\xd8\xb5\xd8\xa7\xd8\xa8', 'timestamp': '2017-06-09 19:51:29', 'user': 'FarzzanaRassab', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873266292396089344': {'fullname': b'Soqeena Nawaz', 'timestamp': '2017-06-09 19:51:23', 'user': 'soqeenanawaz', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873265523575967745': {'fullname': b'Rameesha Riaaz', 'timestamp': '2017-06-09 19:48:19', 'user': 'rameeshariaaz', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'873265282042691584': {'fullname': b'Riffat Naaz', 'timestamp': '2017-06-09 19:47:22', 'user': 'riffatnaaaz', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873265076156997632': {'fullname': b'Zahra konain', 'timestamp': '2017-06-09 19:46:33', 'user': 'sarahma67692089', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'873264816705687552': {'fullname': b'\xd8\xb4\xd8\xb1\xd8\xac\xdb\x8c\xd9\x84\xdb\x81 \xd8\xa7\xd8\xb4\xd8\xaa\xdb\x8c\xd8\xa7\xd9\x82', 'timestamp': '2017-06-09 19:45:31', 'user': 'Sharjeeela', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873262452905054209': {'fullname': b'Yasir Shaikh', 'timestamp': '2017-06-09 19:36:07', 'user': 'Yasir_xcite', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'873261024354369536': {'fullname': b'Afia safdar\xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-06-09 19:30:27', 'user': 'Afiasafdar1', 'replies': '1', 'likes': '1', 'retweets': '0'}}
+{'873257331894747136': {'fullname': b'\xd8\xa7\xd9\x86\xd8\xb5\xd8\xa7\xd9\x81', 'timestamp': '2017-06-09 19:15:46', 'user': 'RafaqatJadoon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873256512017358850': {'fullname': b'\xd8\xa7\xd9\x86\xd8\xb5\xd8\xa7\xd9\x81', 'timestamp': '2017-06-09 19:12:31', 'user': 'RafaqatJadoon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873253797773983744': {'fullname': b'Sobia Kamal Khan', 'timestamp': '2017-06-09 19:01:44', 'user': 'SobiaKamalKhan', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'873253582467936260': {'fullname': b'\xd8\xa7\xd9\x86\xd8\xb5\xd8\xa7\xd9\x81', 'timestamp': '2017-06-09 19:00:52', 'user': 'RafaqatJadoon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873253466390622208': {'fullname': b'Rizwan Rana', 'timestamp': '2017-06-09 19:00:25', 'user': 'RizwanranaPTI', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'873253462296977408': {'fullname': b'Raheem Jamali', 'timestamp': '2017-06-09 19:00:24', 'user': 'imRaheemJamali', 'replies': '2', 'likes': '2', 'retweets': '0'}}

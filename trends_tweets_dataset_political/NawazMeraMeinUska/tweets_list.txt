@@ -1,0 +1,1 @@
+{'907223601836896256': {'fullname': b'Umar Ajmal PML\xc2\xb0N', 'timestamp': '2017-09-11 12:45:36', 'user': 'umar_ajmal_ch', 'replies': '0', 'likes': '2', 'retweets': '0'}}

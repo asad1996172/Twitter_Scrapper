@@ -1,0 +1,1 @@
+{'842636186103435264': {'fullname': b'Bashir Nichari', 'timestamp': '2017-03-17 07:18:16', 'user': 'PPPSocialMedia1', 'replies': '0', 'likes': '13', 'retweets': '6'}}

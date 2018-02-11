@@ -1,0 +1,76 @@
+{'926549990184505348': {'fullname': b'Peoples Study Circle', 'timestamp': '2017-11-03 20:41:46', 'user': 'PPPStudyCircle', 'replies': '0', 'likes': '11', 'retweets': '4'}}
+{'931176103355482113': {'fullname': b'Abdul Wahab', 'timestamp': '2017-11-16 15:04:18', 'user': 'AbdulWa70658358', 'replies': '0', 'likes': '16', 'retweets': '1'}}
+{'931170197783941120': {'fullname': b'Abdul Wahab', 'timestamp': '2017-11-16 14:40:50', 'user': 'AbdulWa70658358', 'replies': '0', 'likes': '19', 'retweets': '10'}}
+{'931138819616800768': {'fullname': b'zahidamalikawanppp', 'timestamp': '2017-11-16 12:36:08', 'user': 'zahidamalikawa1', 'replies': '0', 'likes': '28', 'retweets': '5'}}
+{'931135196849737730': {'fullname': b'\xc2\xa0\xf0\x9f\x87\xa7 \xc2\xa0\xf0\x9f\x87\xae \xc2\xa0\xf0\x9f\x87\xb1 \xc2\xa0\xf0\x9f\x87\xa6 \xc2\xa0\xf0\x9f\x87\xb1\xe2\x9e\xb6', 'timestamp': '2017-11-16 12:21:45', 'user': 'BilalRaza_PPP', 'replies': '0', 'likes': '5', 'retweets': '3'}}
+{'931130431419961344': {'fullname': b'\xc2\xa0\xf0\x9f\x87\xa7 \xc2\xa0\xf0\x9f\x87\xae \xc2\xa0\xf0\x9f\x87\xb1 \xc2\xa0\xf0\x9f\x87\xa6 \xc2\xa0\xf0\x9f\x87\xb1\xe2\x9e\xb6', 'timestamp': '2017-11-16 12:02:49', 'user': 'BilalRaza_PPP', 'replies': '0', 'likes': '4', 'retweets': '3'}}
+{'931087898744586240': {'fullname': b'Shahbaz Ali Vistro', 'timestamp': '2017-11-16 09:13:48', 'user': 'shahbazvistro11', 'replies': '0', 'likes': '5', 'retweets': '2'}}
+{'930845673548845056': {'fullname': b'Jalil Khan', 'timestamp': '2017-11-15 17:11:17', 'user': 'jalilkhan1980', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'930836239686819841': {'fullname': b'benazeer noor', 'timestamp': '2017-11-15 16:33:48', 'user': 'benazeernoor', 'replies': '2', 'likes': '51', 'retweets': '19'}}
+{'930775891038343169': {'fullname': b'Sania Pitafi', 'timestamp': '2017-11-15 12:34:00', 'user': 'SaniaPitafi', 'replies': '0', 'likes': '8', 'retweets': '2'}}
+{'930775081692876800': {'fullname': b'Muhammad Usman Raza', 'timestamp': '2017-11-15 12:30:47', 'user': 'Usman_PPP94', 'replies': '0', 'likes': '9', 'retweets': '8'}}
+{'930775031860297729': {'fullname': b'Prince Sarfaraz PPP', 'timestamp': '2017-11-15 12:30:35', 'user': 'Princesarfaraz4', 'replies': '0', 'likes': '11', 'retweets': '8'}}
+{'930774576866447360': {'fullname': b'Prince Sarfaraz PPP', 'timestamp': '2017-11-15 12:28:46', 'user': 'Princesarfaraz4', 'replies': '0', 'likes': '18', 'retweets': '12'}}
+{'930545918214107139': {'fullname': b'Masood Ahmed Shaikh', 'timestamp': '2017-11-14 21:20:10', 'user': 'Shaikhmasoodppp', 'replies': '0', 'likes': '11', 'retweets': '9'}}
+{'930539961266425856': {'fullname': b'Sajjad Shaikh PPP', 'timestamp': '2017-11-14 20:56:30', 'user': 'Sajjad44aliAli', 'replies': '1', 'likes': '61', 'retweets': '32'}}
+{'930009642947743744': {'fullname': b'Ali Muhammad Sahito', 'timestamp': '2017-11-13 09:49:12', 'user': 'AliMuhammadSa12', 'replies': '0', 'likes': '47', 'retweets': '16'}}
+{'937107618199425024': {'fullname': b'A n e e s  Hashim Kara', 'timestamp': '2017-12-02 23:54:01', 'user': 'Anees_JS', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'937105634046173186': {'fullname': b'A n e e s  Hashim Kara', 'timestamp': '2017-12-02 23:46:08', 'user': 'Anees_JS', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'937105275823239168': {'fullname': b'Nadir Ali', 'timestamp': '2017-12-02 23:44:42', 'user': 'nadirali84', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937102595545534466': {'fullname': b'A n e e s  Hashim Kara', 'timestamp': '2017-12-02 23:34:03', 'user': 'Anees_JS', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937102389714317312': {'fullname': b'A n e e s  Hashim Kara', 'timestamp': '2017-12-02 23:33:14', 'user': 'Anees_JS', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937097179990290432': {'fullname': b'Info Sec PPP Thatta', 'timestamp': '2017-12-02 23:12:32', 'user': 'nazir_jakhro', 'replies': '0', 'likes': '11', 'retweets': '5'}}
+{'937093756632879111': {'fullname': b'Shahina Saeeda PPP', 'timestamp': '2017-12-02 22:58:56', 'user': 'ShahinaSaeeda', 'replies': '0', 'likes': '18', 'retweets': '1'}}
+{'937093348237676544': {'fullname': b'Adnan Shaikh', 'timestamp': '2017-12-02 22:57:19', 'user': 'pppps105news', 'replies': '0', 'likes': '5', 'retweets': '2'}}
+{'937089493231837184': {'fullname': b'Abdul Wahab', 'timestamp': '2017-12-02 22:42:00', 'user': 'AbdulWa70658358', 'replies': '0', 'likes': '12', 'retweets': '4'}}
+{'937077708860936192': {'fullname': b'Wajah Kefah Karimdad', 'timestamp': '2017-12-02 21:55:10', 'user': 'WajaKKarimdad77', 'replies': '1', 'likes': '1', 'retweets': '0'}}
+{'937074691558330371': {'fullname': b'Wajah Kefah Karimdad', 'timestamp': '2017-12-02 21:43:11', 'user': 'WajaKKarimdad77', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'937072598323814401': {'fullname': b'Abdul Wahab', 'timestamp': '2017-12-02 21:34:52', 'user': 'AbdulWa70658358', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'937070957382000640': {'fullname': b'zahidamalikawanppp', 'timestamp': '2017-12-02 21:28:20', 'user': 'zahidamalikawa1', 'replies': '3', 'likes': '49', 'retweets': '11'}}
+{'937058000451330048': {'fullname': b'Anokha Jiyala Agha', 'timestamp': '2017-12-02 20:36:51', 'user': 'AghaSherazAli', 'replies': '1', 'likes': '42', 'retweets': '11'}}
+{'937057478742888448': {'fullname': b'LUBAIB CHANDIO', 'timestamp': '2017-12-02 20:34:47', 'user': 'EngrLUBAIB', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'937049496080527360': {'fullname': b'#JusticeForZainab', 'timestamp': '2017-12-02 20:03:04', 'user': 'drkhanns', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937048595248943104': {'fullname': b'Fater Junejo PYO', 'timestamp': '2017-12-02 19:59:29', 'user': 'faterhassan1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937048546561478662': {'fullname': b'Fater Junejo PYO', 'timestamp': '2017-12-02 19:59:17', 'user': 'faterhassan1', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'937048430177812480': {'fullname': b'Fater Junejo PYO', 'timestamp': '2017-12-02 19:58:49', 'user': 'faterhassan1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'937048389296054272': {'fullname': b'Fater Junejo PYO', 'timestamp': '2017-12-02 19:58:40', 'user': 'faterhassan1', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'939943797294694400': {'fullname': b'Shahina Saeeda PPP', 'timestamp': '2017-12-10 19:43:59', 'user': 'ShahinaSaeeda', 'replies': '0', 'likes': '10', 'retweets': '3'}}
+{'939854142171942912': {'fullname': b'NABEEL BALOCH PPP', 'timestamp': '2017-12-10 13:47:43', 'user': 'NabeelB36728845', 'replies': '0', 'likes': '10', 'retweets': '3'}}
+{'939773596548857856': {'fullname': b'yasir jabbar', 'timestamp': '2017-12-10 08:27:40', 'user': 'yasirjabbar5', 'replies': '0', 'likes': '4', 'retweets': '1'}}
+{'939592900232572928': {'fullname': b'Najeeb Abro Team ppp', 'timestamp': '2017-12-09 20:29:38', 'user': 'NajeebAbro2016', 'replies': '1', 'likes': '50', 'retweets': '14'}}
+{'939488920223526912': {'fullname': b'Molai Yousif Brohi', 'timestamp': '2017-12-09 13:36:28', 'user': 'Y_AliBrohi_PSF', 'replies': '1', 'likes': '15', 'retweets': '3'}}
+{'939485399893889024': {'fullname': b'Senator Sehar Kamran', 'timestamp': '2017-12-09 13:22:28', 'user': 'SeharKamran', 'replies': '1', 'likes': '5', 'retweets': '2'}}
+{'939478317270552576': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-09 12:54:20', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939465514753118208': {'fullname': b'Syed Haider Ali Shah', 'timestamp': '2017-12-09 12:03:27', 'user': 'S_Haider_Alisha', 'replies': '0', 'likes': '8', 'retweets': '1'}}
+{'939444353096962049': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-09 10:39:22', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939379477607604224': {'fullname': b'Sajjad Shaikh PPP', 'timestamp': '2017-12-09 06:21:34', 'user': 'Sajjad44aliAli', 'replies': '0', 'likes': '42', 'retweets': '18'}}
+{'939242539193794561': {'fullname': b'#SMBB\xd9\x88\xd8\xb2\xdb\x8c\xd8\xb1\xd8\xa7\xd8\xb9\xd8\xb8\xd9\x85 \xd8\xa8\xd9\x84\xd8\xa7\xd9\x88\xd9\x84', 'timestamp': '2017-12-08 21:17:26', 'user': 'asgharchohan86', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'939215252721491971': {'fullname': b'Shakir Albaloushi', 'timestamp': '2017-12-08 19:29:00', 'user': 'Shaki_ct', 'replies': '0', 'likes': '5', 'retweets': '1'}}
+{'939172766108061704': {'fullname': b'\xe2\x99\xa1 Sariya Rana \xe2\x99\xa1', 'timestamp': '2017-12-08 16:40:11', 'user': 'sariyarana', 'replies': '1', 'likes': '12', 'retweets': '4'}}
+{'939170308577288192': {'fullname': b'AFtab Mirani', 'timestamp': '2017-12-08 16:30:25', 'user': 'miraniaftab79', 'replies': '0', 'likes': '3', 'retweets': '3'}}
+{'939168058790367232': {'fullname': b'ChahatBenazirOffical', 'timestamp': '2017-12-08 16:21:28', 'user': 'ChahatBenazir_', 'replies': '0', 'likes': '3', 'retweets': '2'}}
+{'939156436290097152': {'fullname': b'Shaista Balouch', 'timestamp': '2017-12-08 15:35:17', 'user': 'shaista_balouch', 'replies': '1', 'likes': '53', 'retweets': '8'}}
+{'939155223377076227': {'fullname': b'Shaista Balouch', 'timestamp': '2017-12-08 15:30:28', 'user': 'shaista_balouch', 'replies': '5', 'likes': '63', 'retweets': '8'}}
+{'939153439174676480': {'fullname': b'\xe2\x99\xa1 Sariya Rana \xe2\x99\xa1', 'timestamp': '2017-12-08 15:23:23', 'user': 'sariyarana', 'replies': '2', 'likes': '85', 'retweets': '16'}}
+{'939152845756125184': {'fullname': b'Qasim Uzair Khan PPP', 'timestamp': '2017-12-08 15:21:01', 'user': 'QasimUzairKhan', 'replies': '0', 'likes': '6', 'retweets': '1'}}
+{'925342092443967488': {'fullname': b'benazeer noor', 'timestamp': '2017-10-31 12:42:01', 'user': 'benazeernoor', 'replies': '0', 'likes': '56', 'retweets': '14'}}
+{'942821494232625157': {'fullname': b'WorldSindhiCongress', 'timestamp': '2017-12-18 18:18:55', 'user': 'sindhicongress', 'replies': '0', 'likes': '0', 'retweets': '3'}}
+{'942761679837949953': {'fullname': b'WorldSindhiCongress', 'timestamp': '2017-12-18 14:21:14', 'user': 'sindhicongress', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'942712612185354240': {'fullname': b'Abdul Wahab', 'timestamp': '2017-12-18 11:06:16', 'user': 'AbdulWa70658358', 'replies': '1', 'likes': '22', 'retweets': '4'}}
+{'942623489701433345': {'fullname': b'HOPE\xc2\xa0\xf0\x9f\x95\xaf', 'timestamp': '2017-12-18 05:12:07', 'user': 'timetothinkPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941997565196808192': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-16 11:44:55', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941782300685209600': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-15 21:29:32', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941744516310200321': {'fullname': b'Khawar', 'timestamp': '2017-12-15 18:59:24', 'user': 'KhawarIkhlas', 'replies': '2', 'likes': '3', 'retweets': '4'}}
+{'941720684388118528': {'fullname': b'HOPE\xc2\xa0\xf0\x9f\x95\xaf', 'timestamp': '2017-12-15 17:24:42', 'user': 'timetothinkPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'941554065389117440': {'fullname': b'Elishba Shah', 'timestamp': '2017-12-15 06:22:37', 'user': 'elishba_shah', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'941393189382033410': {'fullname': b'Imran Khanzada PSF \xe2\x84\xa2', 'timestamp': '2017-12-14 19:43:21', 'user': 'ImrankzPPP', 'replies': '0', 'likes': '39', 'retweets': '24'}}
+{'941324790060773376': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-14 15:11:33', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940964544343625729': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-13 15:20:04', 'user': 'nonstopm4301', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'940934334944567298': {'fullname': b'Deedar Ali Jatoi', 'timestamp': '2017-12-13 13:20:01', 'user': 'deedarjatoips35', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940934324869828609': {'fullname': b'Deedar Ali Jatoi', 'timestamp': '2017-12-13 13:19:59', 'user': 'deedarjatoips35', 'replies': '0', 'likes': '2', 'retweets': '3'}}
+{'940903426283704321': {'fullname': b'Zawar Mohsin Mirza', 'timestamp': '2017-12-13 11:17:12', 'user': 'MirzaZawar', 'replies': '0', 'likes': '3', 'retweets': '1'}}
+{'940869523598606338': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-13 09:02:29', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940846161702813696': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-13 07:29:39', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'940828369343696896': {'fullname': b'Tab', 'timestamp': '2017-12-13 06:18:57', 'user': 'ITab29', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'940516328619855872': {'fullname': b'\xd8\xa3\xda\xb5\xd8\xb9\xd8\xac\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xd9\x80\xda\xb5\xc2\xae', 'timestamp': '2017-12-12 09:39:01', 'user': 'Alishbabukhari1', 'replies': '4', 'likes': '19', 'retweets': '2'}}
+{'940499149497225216': {'fullname': b'Salahtime Tv', 'timestamp': '2017-12-12 08:30:45', 'user': 'nonstopm4301', 'replies': '0', 'likes': '0', 'retweets': '0'}}

@@ -1,0 +1,41 @@
+{'864806284960440320': {'fullname': b'Malik Mahmoud', 'timestamp': '2017-05-17 11:34:20', 'user': 'Mahmood70Malik', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'844405941932081152': {'fullname': b'Malik Amjad', 'timestamp': '2017-03-22 04:30:39', 'user': 'Malikam6933747', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'921100665354706944': {'fullname': b'AmnaAli', 'timestamp': '2017-10-19 19:48:06', 'user': 'amnaali25', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'920459214383960065': {'fullname': b'Qayum Khan', 'timestamp': '2017-10-18 01:19:12', 'user': 'qayumkhan100', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'880175549129293824': {'fullname': b'Tahir malik', 'timestamp': '2017-06-28 21:26:18', 'user': 'cooolmalik', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'880110191819210752': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-06-28 17:06:36', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'819578277266333697': {'fullname': b'Syed Baba ji Sarkar', 'timestamp': '2017-01-12 16:14:22', 'user': 'syedjisarkar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'878702681644306434': {'fullname': b'PML-N WOMEN WING UK', 'timestamp': '2017-06-24 19:53:39', 'user': 'PMLNUKWOMENWING', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'876482785954889729': {'fullname': b'Ammar Ashraf', 'timestamp': '2017-06-18 16:52:35', 'user': 'ammarawan04', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'874731007966146561': {'fullname': b'mianraza.official', 'timestamp': '2017-06-13 20:51:38', 'user': 'mrazaofficial', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'896473433466425344': {'fullname': b'Pak Digital Media', 'timestamp': '2017-08-12 20:48:16', 'user': 'PakDmedia', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'896433155334393856': {'fullname': b'Pak Digital Media', 'timestamp': '2017-08-12 18:08:13', 'user': 'PakDmedia', 'replies': '0', 'likes': '3', 'retweets': '2'}}
+{'895678123865513984': {'fullname': b'Zaara Abbas Khar', 'timestamp': '2017-08-10 16:08:00', 'user': 'zaaraZAK', 'replies': '5', 'likes': '21', 'retweets': '0'}}
+{'895398180782825472': {'fullname': b'nazamughal', 'timestamp': '2017-08-09 21:35:36', 'user': 'nazamughal1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'894635858946531328': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-08-07 19:06:24', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'893871607159988228': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-08-05 16:29:33', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'893726602776924161': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-08-05 06:53:21', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'909303757267132417': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-09-17 06:31:24', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'898141260334202880': {'fullname': b'Pak Digital Media', 'timestamp': '2017-08-17 11:15:37', 'user': 'PakDmedia', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'897785106932355072': {'fullname': b'Pak Digital Media', 'timestamp': '2017-08-16 11:40:24', 'user': 'PakDmedia', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'897001053383741440': {'fullname': b'Raazia Ayub', 'timestamp': '2017-08-14 07:44:51', 'user': 'RaaziaAyub', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902795700303314946': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-08-30 07:30:42', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'942251003608383489': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-12-17 04:32:00', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'908020858949476352': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-09-13 17:33:37', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'905320039133306880': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-09-06 06:41:32', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'884766038499487744': {'fullname': b'Bilal Shabeer', 'timestamp': '2017-07-11 13:27:16', 'user': 'silentbloom09', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'883212629618982916': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-07-07 06:34:34', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'882598122827939840': {'fullname': b'Malik Mahmoud', 'timestamp': '2017-07-05 13:52:45', 'user': 'Mahmood70Malik', 'replies': '0', 'likes': '8', 'retweets': '2'}}
+{'882491240251568128': {'fullname': b'Mudasar Joiya', 'timestamp': '2017-07-05 06:48:02', 'user': 'JoiyaMudasar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'882270852649148417': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-07-04 16:12:17', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'882261982132355073': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-07-04 15:37:02', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928253031212298241': {'fullname': b'Tariq O. Rehman', 'timestamp': '2017-11-08 13:29:03', 'user': 'TORehman', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'928174805681020928': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-11-08 08:18:12', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928171708745367552': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-11-08 08:05:54', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'926388491461808128': {'fullname': b'The Nation Opinion', 'timestamp': '2017-11-03 10:00:02', 'user': 'TheNationOpEd', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'925747741933916162': {'fullname': b'Muhammad Tariq Rafiq', 'timestamp': '2017-11-01 15:33:55', 'user': 'mtsr629', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'946395869108203521': {'fullname': b'uMer $ bUtt', 'timestamp': '2017-12-28 15:02:13', 'user': 'uMerbUtt0007', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'923631627778928640': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-10-26 19:25:14', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922868097697980416': {'fullname': b'Arif Hussain Shah', 'timestamp': '2017-10-24 16:51:15', 'user': 'ArifHussainSha2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'887597324020658176': {'fullname': b'Ahsan', 'timestamp': '2017-07-19 08:57:47', 'user': 'ajaral9744', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'885775997790015490': {'fullname': b'irfankhan', 'timestamp': '2017-07-14 08:20:29', 'user': 'Iffi69Irfankhan', 'replies': '0', 'likes': '1', 'retweets': '1'}}

@@ -1,0 +1,42 @@
+{'886287737812373504': {'fullname': b'nawa e sarosh', 'timestamp': '2017-07-15 18:13:57', 'user': 'rizwana161', 'replies': '0', 'likes': '8', 'retweets': '9'}}
+{'886180108473692161': {'fullname': b'ch shahid', 'timestamp': '2017-07-15 11:06:16', 'user': 'chshahid3891', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861639280304828416': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-08 17:49:47', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861634561423233024': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-05-08 17:31:02', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'861614304419827716': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-08 16:10:32', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861483596988678144': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-08 07:31:09', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861370929846390784': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-08 00:03:27', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'861286155232432128': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-07 18:26:35', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860893776935624704': {'fullname': b'Bilal Nasir Khan', 'timestamp': '2017-05-06 16:27:25', 'user': 'BilalNasirKhan1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860769541349158912': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-06 08:13:45', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860673647622721536': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-06 01:52:42', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860577485993512961': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-05 19:30:36', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860215537166635009': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 19:32:20', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860210071682392064': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 19:10:37', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860206957189312512': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 18:58:15', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860204157092982786': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 18:47:07', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860187575310528512': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 17:41:14', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860168345034817537': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 16:24:49', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860116925988216834': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-05-04 13:00:30', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'860013851651317760': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-05-04 06:10:55', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'859984703796936706': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-04 04:15:05', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'859778963014639616': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-05-03 14:37:33', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858801090992754688': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-30 21:51:50', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858668293355450368': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-30 13:04:09', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858589759647748097': {'fullname': b'Nayab\xc2\xa0\xf0\x9f\x8c\x90', 'timestamp': '2017-04-30 07:52:05', 'user': 'NayabRajpout', 'replies': '0', 'likes': '4', 'retweets': '0'}}
+{'858448233512685568': {'fullname': b'\xd8\xb3\xd8\xa8 \xda\xa9\xd8\xa7#karachi \xe2\x84\xa2', 'timestamp': '2017-04-29 22:29:42', 'user': 'MArif_PTI', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858368326644498432': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 17:12:11', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858255390072549376': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 09:43:25', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858227979473874944': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 07:54:30', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858221237847425024': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 07:27:42', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858210591978205184': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 06:45:24', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858160739714052097': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-29 03:27:18', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'858028582458855424': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-28 18:42:10', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857918330270752769': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-04-28 11:24:03', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857909998411632640': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-04-28 10:50:57', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857633131947474944': {'fullname': b'sohail asghar', 'timestamp': '2017-04-27 16:30:47', 'user': 'Sohail__Asghar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857631547796713473': {'fullname': b'Nasreen', 'timestamp': '2017-04-27 16:24:29', 'user': 'Nas_k27', 'replies': '1', 'likes': '5', 'retweets': '0'}}
+{'857623608754978816': {'fullname': b'Dr Saeed Bukhari', 'timestamp': '2017-04-27 15:52:56', 'user': 'drsaeedbukhari9', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857583297936805890': {'fullname': b'Farhan Qureshi \xc2\xa0\xf0\x9f\x87\xb5\xf0\x9f\x87\xb0', 'timestamp': '2017-04-27 13:12:46', 'user': 'FMQureshiPK', 'replies': '0', 'likes': '0', 'retweets': '1'}}
+{'857581980657102848': {'fullname': b'\xc3\x89crire M\xc3\xa9lenchon', 'timestamp': '2017-04-27 13:07:31', 'user': 'BonMelenchon', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857566258975318020': {'fullname': b'syed Jahanzaib shah', 'timestamp': '2017-04-27 12:05:03', 'user': 'JahanzaibAry', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'857554326952316929': {'fullname': b'Endocrinologist@PTI_VF', 'timestamp': '2017-04-27 11:17:38', 'user': 'zulfiqar0418', 'replies': '0', 'likes': '0', 'retweets': '0'}}

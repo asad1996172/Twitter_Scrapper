@@ -1,0 +1,23 @@
+{'928995541350060033': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-11-10 14:39:31', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928689597235843073': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-11-09 18:23:48', 'user': 'DistinctRebel', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'928624594759667712': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-11-09 14:05:31', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'928587375332265984': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-11-09 11:37:37', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922174803913728000': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-10-22 18:56:21', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'922142428940898304': {'fullname': b'Anikka Albrite', 'timestamp': '2017-10-22 16:47:42', 'user': 'Anikka87159019', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'922140608134877185': {'fullname': b'Anikka Albrite', 'timestamp': '2017-10-22 16:40:28', 'user': 'Anikka87159019', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'922026541449732096': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-22 09:07:12', 'user': 'Mian9211', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'921922364572565504': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-22 02:13:14', 'user': 'Mian9211', 'replies': '0', 'likes': '3', 'retweets': '3'}}
+{'921916867043840000': {'fullname': b'SiasatTv.com', 'timestamp': '2017-10-22 01:51:24', 'user': 'SiasatTv1', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'921871535434018816': {'fullname': b'Faizy Fareed', 'timestamp': '2017-10-21 22:51:16', 'user': 'faizy1207', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921828206516277248': {'fullname': b'Mohsin Khan', 'timestamp': '2017-10-21 19:59:05', 'user': 'MohsinK30238666', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921801625118953472': {'fullname': b'Mubashir Chauhdary', 'timestamp': '2017-10-21 18:13:28', 'user': 'DistinctRebel', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921778128384593921': {'fullname': b'Mudasar khan\xc2\xa0\xf0\x9f\x8c\x90', 'timestamp': '2017-10-21 16:40:06', 'user': 'mudasarkhattak', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'921772573049937920': {'fullname': b'Anikka Albrite', 'timestamp': '2017-10-21 16:18:01', 'user': 'Anikka87159019', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'921770670572343301': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-21 16:10:28', 'user': 'Mian9211', 'replies': '0', 'likes': '2', 'retweets': '4'}}
+{'921770171852902400': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-21 16:08:29', 'user': 'Mian9211', 'replies': '0', 'likes': '1', 'retweets': '4'}}
+{'921758582659604480': {'fullname': b'Sarmad Janjua', 'timestamp': '2017-10-21 15:22:26', 'user': 'SarmadJanjua2', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921754696456593408': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-21 15:06:59', 'user': 'Mian9211', 'replies': '1', 'likes': '0', 'retweets': '0'}}
+{'921744889041256448': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-21 14:28:01', 'user': 'Mian9211', 'replies': '0', 'likes': '0', 'retweets': '2'}}
+{'921716640978558976': {'fullname': b'\xd8\xa8\xd9\x86\xd8\xaf\xdb\x81 \xd8\xa8\xd8\xb4\xd8\xb1', 'timestamp': '2017-10-21 12:35:46', 'user': 'banda_bashar', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'921716354125885440': {'fullname': b'\xd9\xbe\xdb\x8c\xd8\xa7\xd8\xb1\xdb\x92\xd9\x85\xdb\x8c\xd8\xa7\xda\xba\xe2\x84\xa2', 'timestamp': '2017-10-21 12:34:38', 'user': 'Mian9211', 'replies': '0', 'likes': '5', 'retweets': '4'}}
+{'921715998247530496': {'fullname': b'MIAN ABDUL RAUF', 'timestamp': '2017-10-21 12:33:13', 'user': 'MianRaufABL', 'replies': '0', 'likes': '0', 'retweets': '0'}}

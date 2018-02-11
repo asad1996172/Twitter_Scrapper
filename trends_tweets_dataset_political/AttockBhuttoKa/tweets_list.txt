@@ -1,0 +1,40 @@
+{'909058923331833858': {'fullname': b'RabNawaz Baloch', 'timestamp': '2017-09-16 14:18:31', 'user': 'RabNBaloch', 'replies': '1', 'likes': '81', 'retweets': '41'}}
+{'900017607209762821': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 15:31:33', 'user': 'Maqbool_PPP', 'replies': '1', 'likes': '4', 'retweets': '1'}}
+{'899982563346743300': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 13:12:18', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '11', 'retweets': '5'}}
+{'899981790638624768': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 13:09:14', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '10', 'retweets': '2'}}
+{'899980724190629888': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 13:05:00', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '4', 'retweets': '0'}}
+{'899972891923537920': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 12:33:52', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'899968584071299073': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 12:16:45', 'user': 'Maqbool_PPP', 'replies': '1', 'likes': '4', 'retweets': '0'}}
+{'899965554588491776': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 12:04:43', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'899963685858193408': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:57:17', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'899961719446921217': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:49:29', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '3', 'retweets': '0'}}
+{'899959695351332864': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:41:26', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'899958707831816192': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:37:31', 'user': 'Maqbool_PPP', 'replies': '1', 'likes': '23', 'retweets': '13'}}
+{'899957877170774016': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:34:12', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '3', 'retweets': '2'}}
+{'899956108839723008': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-22 11:27:11', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '2', 'retweets': '1'}}
+{'899634098842587137': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-21 14:07:38', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '8', 'retweets': '5'}}
+{'899631844232011778': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-21 13:58:40', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '19', 'retweets': '3'}}
+{'899629931096715264': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-21 13:51:04', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '6', 'retweets': '1'}}
+{'899628822345035780': {'fullname': b'Maqbool Baloch', 'timestamp': '2017-08-21 13:46:40', 'user': 'Maqbool_PPP', 'replies': '0', 'likes': '13', 'retweets': '10'}}
+{'899566955736293376': {'fullname': b'Zubair Jamali', 'timestamp': '2017-08-21 09:40:50', 'user': 'ZubairJamaliPPP', 'replies': '2', 'likes': '64', 'retweets': '33'}}
+{'898978632479240196': {'fullname': b'Raja Sheryar PPP', 'timestamp': '2017-08-19 18:43:02', 'user': 'sheryarppp49', 'replies': '1', 'likes': '7', 'retweets': '7'}}
+{'904607562833768450': {'fullname': b'Arif Kaimkhani', 'timestamp': '2017-09-04 07:30:24', 'user': 'arifkaimkhani', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'903552641422299136': {'fullname': b'qasid raja', 'timestamp': '2017-09-01 09:38:31', 'user': 'qasid_82', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'903074895571058688': {'fullname': b'Zahidhassan Shah', 'timestamp': '2017-08-31 02:00:08', 'user': 'ZahidhassanShah', 'replies': '0', 'likes': '1', 'retweets': '1'}}
+{'903012608713920528': {'fullname': b'Agha Zulqarnain Ali', 'timestamp': '2017-08-30 21:52:37', 'user': 'AghaZulqarnain', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'903000137999331328': {'fullname': b'Zain Ali', 'timestamp': '2017-08-30 21:03:04', 'user': 'zamcw', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902837909715279872': {'fullname': b'shaman ali khaskheli', 'timestamp': '2017-08-30 10:18:26', 'user': 'shamanalikhask1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902597672116383748': {'fullname': b'Ammar', 'timestamp': '2017-08-29 18:23:49', 'user': 'ammarkhi', 'replies': '0', 'likes': '3', 'retweets': '1'}}
+{'902589863236599809': {'fullname': b'Ammar', 'timestamp': '2017-08-29 17:52:47', 'user': 'ammarkhi', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'902483903642001409': {'fullname': b'Tabish Ali', 'timestamp': '2017-08-29 10:51:44', 'user': 'tabishali24', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'902453196949512196': {'fullname': b'Mujeeb Azad', 'timestamp': '2017-08-29 08:49:43', 'user': 'Mujeeb_Azad0', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902446366919712768': {'fullname': b'Basmati Reus', 'timestamp': '2017-08-29 08:22:35', 'user': 'hamzakhalid23', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902376987502764032': {'fullname': b'Owais Sandhu', 'timestamp': '2017-08-29 03:46:53', 'user': 'awais_sandhu', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902302277431689216': {'fullname': b'Dr. Fiza Akbar Khan', 'timestamp': '2017-08-28 22:50:01', 'user': 'Dr_fizakhan', 'replies': '8', 'likes': '86', 'retweets': '6'}}
+{'902250281555169280': {'fullname': b'Ammar', 'timestamp': '2017-08-28 19:23:24', 'user': 'ammarkhi', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'902224091771543552': {'fullname': b'\xda\xa9\xd8\xb4\xd9\x85\xdb\x8c\xd8\xb1\xdb\x8c \xda\x86\xd8\xa7\xdb\x93', 'timestamp': '2017-08-28 17:39:20', 'user': 'iamalishy', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'902218139542441985': {'fullname': b'Syed Zulfiqar Haider', 'timestamp': '2017-08-28 17:15:41', 'user': 'ScorpioHaider', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902207407115440128': {'fullname': b'Raja Sheryar PPP', 'timestamp': '2017-08-28 16:33:02', 'user': 'sheryarppp49', 'replies': '0', 'likes': '2', 'retweets': '0'}}
+{'902182886878654465': {'fullname': b'Asif shah Afridi', 'timestamp': '2017-08-28 14:55:36', 'user': 'AsifPsfkhyber', 'replies': '0', 'likes': '1', 'retweets': '0'}}
+{'902181313251332097': {'fullname': b'walisherwanipathan', 'timestamp': '2017-08-28 14:49:21', 'user': 'walisherwanipa1', 'replies': '0', 'likes': '0', 'retweets': '0'}}
+{'902180366592684032': {'fullname': b'Raja Sheryar PPP', 'timestamp': '2017-08-28 14:45:35', 'user': 'sheryarppp49', 'replies': '0', 'likes': '1', 'retweets': '0'}}
