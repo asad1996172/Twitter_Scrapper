@@ -32,7 +32,8 @@ for(path, dir, files) in os.walk("trends_tweets_dataset_political"):
         file = os.listdir(new_dir)
         # print(file)
         tweets = open(new_dir + "/" + file[1], "r")
-        print("Total Tweets : ", len(tweets.readlines()))
+        total_to_be_processed = len(tweets.readlines())
+        print("Total Tweets : ", total_to_be_processed)
         tweets.close()
         tweets = open(new_dir + "/" + file[1], "r")
         retweets_file = open(new_dir + "/retweets.txt", 'r')
@@ -44,7 +45,8 @@ for(path, dir, files) in os.walk("trends_tweets_dataset_political"):
         for line in tweets:
             if (line_no_for_tweets > total_done):
                 line_dict = ast.literal_eval(line)
-                print("Processing Tweet : ", line_no_for_tweets)
+                print("Processing Tweet : ", line_no_for_tweets,
+                      "/", total_to_be_processed)
                 # print("Line Dict Value :", line_dict)
                 for key in line_dict.keys():
                     line_dict[key]["fullname"] = line_dict[key]["fullname"].decode(
@@ -69,7 +71,7 @@ for(path, dir, files) in os.walk("trends_tweets_dataset_political"):
                                 '//*[@id="activity-popup-dialog-body"]/div[4]/ol')
                             retweets = timeline.find_elements_by_css_selector(
                                 'li.js-stream-item.stream-item.stream-item')
-                            
+
                             count = 1
                             for user in retweets:
                                 one_retweeter = {}
@@ -112,5 +114,5 @@ for(path, dir, files) in os.walk("trends_tweets_dataset_political"):
         retweets_file.close()
         print("---------------------------------------------------")
         print('')
-        
+
 browser.quit()
