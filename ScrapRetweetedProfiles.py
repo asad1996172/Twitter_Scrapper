@@ -13,8 +13,8 @@ browser = webdriver.Chrome(
     executable_path=executable_path, chrome_options=chrome_options)
 browser.set_window_size(1366, 768)
 browser_link = 'https://twitter.com/login'
-user = "ahmer.mathlete@gmail.com"
-pwd = "cos30sin60"
+user = ""
+pwd = ""
 browser.get(browser_link)
 #assert "Login on Twitter" in browser.title
 elem = browser.find_element_by_class_name("js-username-field")
